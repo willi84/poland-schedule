@@ -1,0 +1,1413 @@
+{
+  "links": [
+    "https://ng-poland.pl/speaker/2025/minko-gechev",
+    "https://ng-poland.pl/speaker/2025/alex-rickabaugh",
+    "https://ng-poland.pl/speaker/2025/jeremy-elbourn",
+    "https://ng-poland.pl/speaker/2025/jens-kuehlers",
+    "https://ng-poland.pl/speaker/2025/pawel-kozlowski",
+    "https://ng-poland.pl/speaker/2025/catalina-patio",
+    "https://ng-poland.pl/speaker/2025/piotr-tomiak",
+    "https://ng-poland.pl/speaker/2025/joanna-ostrowska",
+    "https://ng-poland.pl/speaker/2025/matthieu-riegler",
+    "https://ng-poland.pl/speaker/2025/brygida-fiejdasz",
+    "https://ng-poland.pl/speaker/2025/lukasz-jancewicz",
+    "https://ng-poland.pl/speaker/2025/kasia-biernat-kluba",
+    "https://ng-poland.pl/speaker/2025/manfred-steyer",
+    "https://ng-poland.pl/speaker/2025/alex-okrushko",
+    "https://ng-poland.pl/speaker/2025/nir-kaufman",
+    "https://ng-poland.pl/speaker/2025/michael-egger-zikes",
+    "https://ng-poland.pl/speaker/2025/younes-jaaidi",
+    "https://ng-poland.pl/speaker/2025/vojtech-masek",
+    "https://ng-poland.pl/speaker/2025/alexander-thalhammer",
+    "https://ng-poland.pl/speaker/2025/tomas-trajan",
+    "https://ng-poland.pl/speaker/2025/rainer-hahnekamp",
+    "https://ng-poland.pl/speaker/2025/rafal-brzoska",
+    "https://ai-poland.pl/speaker/2025/katarzyna-staroslawska",
+    "https://ai-poland.pl/speaker/2025/assoc-prof-aleksandra-przegalinska-phd",
+    "https://ai-poland.pl/speaker/2025/martin-markiewicz",
+    "https://ai-poland.pl/speaker/2025/dr-maciej-madzinski",
+    "https://ai-poland.pl/speaker/2025/christian-stenzel",
+    "https://ai-poland.pl/speaker/2025/tomasz-ducin",
+    "https://ai-poland.pl/speaker/2025/daniel-sogl",
+    "https://ai-poland.pl/speaker/2025/kris-wojewodzic",
+    "https://ai-poland.pl/speaker/2025/christoffer-noring",
+    "https://ai-poland.pl/speaker/2025/sebastian-witalec",
+    "https://ai-poland.pl/speaker/2025/younes-jaaidi",
+    "https://ai-poland.pl/speaker/2025/przemyslaw-wiktor-pardel",
+    "https://ai-poland.pl/speaker/2025/marcin-dziedzic",
+    "https://ai-poland.pl/speaker/2025/nir-kaufman",
+    "https://ai-poland.pl/speaker/2025/karolina-zak",
+    "https://ai-poland.pl/speaker/2025/matthew-podwysocki",
+    "https://ai-poland.pl/speaker/2025/rainer-hahnekamp",
+    "https://ai-poland.pl/speaker/2025/michael-egger-zikes",
+    "https://ai-poland.pl/speaker/2025/andres-gesteira",
+    "https://ai-poland.pl/speaker/2025/maxim-salnikov",
+    "https://js-poland.pl/speaker/tomasz-ducin",
+    "https://js-poland.pl/speaker/dr-philippe-de-ryck",
+    "https://js-poland.pl/speaker/sylwia-laskowska",
+    "https://js-poland.pl/speaker/eugene-fidelin",
+    "https://js-poland.pl/speaker/julien-huang",
+    "https://js-poland.pl/speaker/jemima-abu",
+    "https://js-poland.pl/speaker/nir-kaufman",
+    "https://js-poland.pl/speaker/daria-poliakova",
+    "https://js-poland.pl/speaker/matthew-podwysocki",
+    "https://js-poland.pl/speaker/damian-plaza",
+    "https://js-poland.pl/speaker/soumaya-erradi",
+    "https://js-poland.pl/speaker/ihor-maistrenko",
+    "https://js-poland.pl/speaker/manfred-steyer",
+    "https://js-poland.pl/speaker/jakub-andrzejewski",
+    "https://js-poland.pl/speaker/markus-ingvarsson",
+    "https://js-poland.pl/speaker/micha-jawulski",
+    "https://js-poland.pl/speaker/frizzarin-nicolas",
+    "https://js-poland.pl/speaker/nder-ceylan",
+    "https://js-poland.pl/speaker/alain-chautard"
+  ],
+  "sessions": {
+    "keynote-session---the-future-of-angular--angular-team-qa-session": {
+      "title": "Keynote Session - The Future of Angular + Angular Team Q&A Session",
+      "description": "",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/minko-gechev",
+      "id": "keynote-session---the-future-of-angular--angular-team-qa-session",
+      "speakerID": "minko-gechev"
+    },
+    "keynote-session--angular-team-qa-session": {
+      "title": "Keynote Session + Angular Team Q&A Session",
+      "description": "",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/alex-rickabaugh",
+      "id": "keynote-session--angular-team-qa-session",
+      "speakerID": "alex-rickabaugh"
+    },
+    "angular---building-in-the-open--angular-team-qa-session": {
+      "title": "Angular - Building in the open + Angular Team Q&A Session",
+      "description": "With a new major version released every six months, how does the team determine which features to work on and what gets left out? How do they balance a steady stream of innovation without overwhelming users? Matthieu & Jens will explain how the team gathers and analyzes data from different sources, how they prioritize features, and the trade-offs they make to build the most intuitive, performant, and scalable framework for building web apps.\n\r\n\n\r\nAlso, maintaining a popular, large-scale open-source project like Angular involves navigating a constant stream of trade-off. While thousands of people contribute to open source, very few take on the complex role of a maintainer. You’ll understand why apparently easy issues aren’t addressed quickly or at all.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/jens-kuehlers",
+      "id": "angular---building-in-the-open--angular-team-qa-session",
+      "speakerID": "jens-kuehlers"
+    },
+    "performance-lessons-from-the-worlds-largest-angular-application": {
+      "title": "Performance Lessons from the World’s Largest Angular Application",
+      "description": "What do you do when your application is simply \"too slow\"?\n\r\n\n\r\nThis session is a (not-so-fictional) journey inside a team's performance investigation. We'll show you why jumping straight into the code is the wrong move and how to start with data-driven monitoring to define what \"slow\" actually means.\n\r\n\n\r\nJoin us as we follow the clues, hunt down one bottleneck after another, and navigate the difficult, real-world trade-offs between speed, features, and user experience.\n\r\nThis isn't just a talk about performance tips; it's a story about the process. You'll leave with a practical mindset for diagnosing users' issues and building usable, high-performance Angular applications.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/catalina-patio",
+      "id": "performance-lessons-from-the-worlds-largest-angular-application",
+      "speakerID": "catalina-patio"
+    },
+    "boosting-angular-productivity-with-webstorm": {
+      "title": "Boosting Angular Productivity with WebStorm",
+      "description": "Build Angular Faster with WebStorm\n\r\nSpending too much time fighting your development tools instead of building your Angular app? This session shows you how to leverage WebStorm's intelligent code completion that understands Angular architecture, set up debugging workflows that actually work, and use refactoring tools that won't break your code.\n\r\n\n\r\nKey topics include:\n\r\n\n\r\n✔︎ How WebStorm provides Angular-specific code assistance: intelligent completions, error highlighting, and navigation within templates using Volar instead of Angular Language Service.\n\r\n✔︎ Refactorings and quick fixes tailored for Angular (e.g., extract component, rename across templates and TypeScript).\n\r\n✔︎ Managing component and TypeScript imports smartly (optimize imports automatically), and auto-formatting code consistently.\n\r\n✔︎ Running Angular CLI commands directly within the IDE—generating components, modules, services—eliminating context switching.\n\r\n✔︎ Using Live Templates to scaffold code, and using built-in support for running tests (single tests or entire suites) inside the IDE.\n\r\n✔︎ Working in monorepos: multi-project support, path aliases, proper auto-import behavior, and structure-aware navigation.\n\r\n✔︎ Practical tips and shortcuts (keyboard navigation, search everywhere, jump to definitions, breadcrumbs) to reduce friction in large Angular applications.\n\r\n✔︎ How the upcoming AI and tooling enhancements in WebStorm 2025 (e.g., AI code suggestions, improved Angular support) tie into future workflows.\n\r\n \n\r\nThis session is ideal for Angular developers who want to spend less time battling tooling and more time writing features — whether you’re in small projects or large enterprise codebases.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/piotr-tomiak",
+      "id": "boosting-angular-productivity-with-webstorm",
+      "speakerID": "piotr-tomiak"
+    },
+    "no-zone-no-problem---building-angular-apps-without-zonejs": {
+      "title": "No Zone, No Problem - Building Angular Apps without Zone.js",
+      "description": "Angular no longer requires Zone.js, but dropping it isn’t just a switch - it’s a mindset shift. This session covers what really happens when you remove Zone.js, how to handle reactivity using Signals and manual strategies, and what this means for app architecture, testing, and performance. Discover how zoneless Angular changes the way we write code and reason about UI updates.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/brygida-fiejdasz",
+      "id": "no-zone-no-problem---building-angular-apps-without-zonejs",
+      "speakerID": "brygida-fiejdasz"
+    },
+    "lt-style-like-a-pro-future-proof-angular-material-in-5-minutes": {
+      "title": "LT: Style Like a Pro: Future-Proof Angular Material in 5 Minutes",
+      "description": "You’ve upgraded Angular… and your Angular Material styles broke again? We’ve all been there. Relying on element inspection, deep CSS overrides, or undocumented theme variables might work today - but it’s a shortcut straight to technical debt.\n\r\nIn this lightning talk, we’ll clear up the confusion and show you the official, future-proof way to style components: the Angular Material Styling API. Learn how to secure your styles against breaking changes and enable powerful features like dark mode - all with clean, maintainable code and minimal effort.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/kasia-biernat-kluba",
+      "id": "lt-style-like-a-pro-future-proof-angular-material-in-5-minutes",
+      "speakerID": "kasia-biernat"
+    },
+    "reactive-thinking-with-signals-and-the-new-httpresource": {
+      "title": "Reactive Thinking with Signals and the New httpResource",
+      "description": "With Signals and the Resource API, Angular now offers powerful built-in building blocks for implementing reactive designs. Although the API surface is simple, the real challenge lies in the paradigm shift toward reactive programming. Familiar patterns must be unlearned, and applications need to be approached in a fundamentally new way.\n\r\n\n\r\nIn this session, you will learn how to successfully navigate this essential transition. We will focus on the underlying signal graph and use a hands-on example to highlight the key aspects.\n\r\n\n\r\nBy the end, you will know how to apply reactive thinking to thrive in the world of Signals.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/manfred-steyer",
+      "id": "reactive-thinking-with-signals-and-the-new-httpresource",
+      "speakerID": "manfred-steyer"
+    },
+    "ngrx-signalstore-the-ultimate-tool-for-modern-state-management": {
+      "title": "NgRx SignalStore: the ultimate tool for modern state management",
+      "description": "Angular Signals have revolutionized local state, but how do you scale that reactivity across your entire application? This session demystifies NgRx SignalStore, the lightweight yet powerful toolkit that serves as the natural extension to Angular's reactive primitives.\n\r\n\n\r\nWe'll explore how SignalStore eliminates boilerplate and scales from a simple service with signals to a full-fledged, enterprise-grade solution. You'll discover the latest v20 enhancements, including powerful entity management, advanced composition with withFeature, sophisticated reactivity using withLinkedState, and how the optional Events plugin brings a decoupled, Flux-inspired architecture to your fingertips.\n\r\n\n\r\nLeave this session ready to build cleaner, more performant, and scalable Angular applications with the ultimate tool for modern, signal-based state management.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/alex-okrushko",
+      "id": "ngrx-signalstore-the-ultimate-tool-for-modern-state-management",
+      "speakerID": "alex-okrushko"
+    },
+    "angular-without-the-framework-when-you-stop-following-the-rules": {
+      "title": "Angular Without the Framework: When You Stop Following the Rules",
+      "description": "Angular was never supposed to be this heavy - we made it that way.\n\r\nWith Angular 20+, the rules have changed: standalone components, Signals, functional providers, and a compiler that doesn’t need NgModules to hold its hand. So what happens if we stop treating Angular like a framework… and start using it like a JavaScript library?\n\r\nBecause once you stop following the rules, you finally understand the game.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/nir-kaufman",
+      "id": "angular-without-the-framework-when-you-stop-following-the-rules",
+      "speakerID": "nir-kaufman"
+    },
+    "signal-forms-meet-the-signal-store": {
+      "title": "Signal Forms meet the Signal Store",
+      "description": "A global state management layer in the frontend provides numerous benefits and clear boundaries within an Angular application. The framework is currently undergoing a wave of modernization, with the most important change being the introduction of Signal-based APIs. These reactive containers not only improve synchronization for browser rendering but are also ideally suited for managing application state.\n\r\nThe well-known third-party library NgRx Signals introduces the Signal Store, a lightweight state management solution designed around Angular’s Signal APIs. It helps to migrate applications into the modern Angular ecosystem. Its design is highly extensible through custom features and has recently been enhanced with the Event API, which allows Flux-style state management as an opt-in.\n\r\n\n\r\nAt the same time, the Angular team is working intensively on Signal Forms – the third and likely soon most important form state management solution. In addition to being compatible with Angular’s existing two form concepts, Signal Forms offers several exciting new features and integrates seamlessly with Angular Signals.\n\r\n\n\r\nBut how can a modern global state management solution like the NgRx Signal Store work together with Angular’s Signal Forms API? In this session, with the help of live demos, you’ll see how the Signal Store and Signal Forms API can be combined in a modern Angular app. Developers will gain insights into how lightweight, signal-driven state management can be applied both globally and within templates using the Signal Forms API in real-world practice.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/michael-egger-zikes",
+      "id": "signal-forms-meet-the-signal-store",
+      "speakerID": "michael-egger"
+    },
+    "component-testing-that-feels-like-playwright--because-it-is": {
+      "title": "Component Testing That Feels Like Playwright — Because It Is",
+      "description": "Tired of blindly debugging raw HTML output? Flaky end-to-end tests and their slow feedback loop? Stitching together five different tools to check if a button is disabled?\n\r\n\n\r\nYou’re not alone.\n\r\n\n\r\nEveryone loves how smooth Playwright makes end-to-end testing feel — reliable, visual, easy to debug. But relying solely on e2e tests is rarely a sustainable strategy.\n\r\n\n\r\nWhat if we could zoom in to test just one component — and still enjoy the same Playwright magic?\n\r\nIn this talk, Younes & Rainer introduce a new approach to Angular component testing: same great DX, smaller scope, faster feedback.\n\r\nThey’ll share why they got there, and how their open-source library brings the full Playwright experience to your components.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/younes-jaaidi",
+      "id": "component-testing-that-feels-like-playwright--because-it-is",
+      "speakerID": "younes-jaaidi"
+    },
+    "hidden-gems-in-angular-hybrid-rendering-new-routing-features-and-beyond": {
+      "title": "Hidden gems in Angular: hybrid rendering, new routing features, and beyond.",
+      "description": "Explore the lesser-known but highly impactful features of Angular, including hybrid rendering, powerful approach that combines prerendering and server-side rendering for optimal performance and SEO. \n\r\n Dive into modern routing improvements like default-exported components and route-specific providers that simplify development while enhancing modularity. This talk will equip you with actionable insights and practical examples to take your Angular applications to the next level, whether you're building static sites, dynamic dashboards, or complex enterprise solutions.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/vojtech-masek",
+      "id": "hidden-gems-in-angular-hybrid-rendering-new-routing-features-and-beyond",
+      "speakerID": "vojtech-maek"
+    },
+    "incremental-hydration": {
+      "title": "Incremental Hydration",
+      "description": "Discover how Server-Side Rendering (SSR) can boost the performance and user experience of your Angular applications. In this talk, I’ll guide you through @angular/ssr, a modern SSR solution that has evolved significantly in recent years to deliver faster initial loads.\n\r\n \n\r\nWe'll explore Static Site Generation (SSG, aka Prerendering) during the build process and the features Full-App Hydration (since v16), Deferrable Views (v17) Event Replay (v18), and Hybrid Rendering (v19).\n\r\n\n\r\nThe spotlight will be on Incremental Hydration (since v19, stable in v20) – the cutting-edge evolution of @defer blocks combined with SSG. I'll explain how this technique works, highlight its potential, and demonstrate its application with selected examples.\n\r\n \n\r\nThe workshop is aimed at both Angular developers who are just getting started with SSR and experienced Angular pros looking to get to know the latest SSR capabilities.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/alexander-thalhammer",
+      "id": "incremental-hydration",
+      "speakerID": "alexander-thalhammer"
+    },
+    "automated-angular-architecture-validation-for-project-success-and-better-ai-agent-support": {
+      "title": "Automated Angular architecture validation for project success and better AI agent support!",
+      "description": "Learn how to architect a brand new or improve an existing enterprise grade Angular application with a bulletproof ESLINT based automated architecture validation to guarantee that Your project stays maintainable, extendable and therefore allows you and your team (and AI agents) to deliver consistently and with high velocity over the entire project lifetime!",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/tomas-trajan",
+      "id": "automated-angular-architecture-validation-for-project-success-and-better-ai-agent-support",
+      "speakerID": "tomas-trajan"
+    },
+    "lt-when-angular-code-meets-reality---epic-fails---ai-edition-2025": {
+      "title": "LT: When Angular code meets reality - epic fails - AI Edition 2025",
+      "description": "Ever asked ChatGPT for Angular help and got a jQuery solution? Ever spent 3 hours debugging only to find a missing semicolon? Ever deployed on Friday afternoon? Yeah, we've all been there.\n\r\nThis talk is basically short group therapy for Angular developers. We'll look at the most embarrassing mistakes we make with Angular \n\r\n Fair warning: You might recognize your own code in these examples. That's... intentional.",
+      "conference": "ng-poland",
+      "href": "https://ng-poland.pl/speaker/2025/rafal-brzoska",
+      "id": "lt-when-angular-code-meets-reality---epic-fails---ai-edition-2025",
+      "speakerID": "rafal-brzoska"
+    },
+    "keynote-session---building-europes-sovereign-ai": {
+      "title": "Keynote Session - Building Europe's sovereign AI",
+      "description": "",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/katarzyna-staroslawska",
+      "id": "keynote-session---building-europes-sovereign-ai",
+      "speakerID": "katarzyna-starosawska"
+    },
+    "keynote-session---development-in-the-age-of-ai-adaptation-and-innovation": {
+      "title": "Keynote Session - Development in the Age of AI: Adaptation and Innovation",
+      "description": "Artificial intelligence is no longer a distant future—it is a defining force of the present, reshaping how we live, work, and grow as societies. Development in this new age demands not only technological adoption, but also deep cultural, educational, and ethical adaptation. Innovation must be understood not only as creating smarter machines, but as rethinking human potential, collaboration, and resilience in a world increasingly mediated by algorithms.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/assoc-prof-aleksandra-przegalinska-phd",
+      "id": "keynote-session---development-in-the-age-of-ai-adaptation-and-innovation",
+      "speakerID": ""
+    },
+    "keynote-session---artificial-intelligence-that-fights-crime": {
+      "title": "Keynote Session - Artificial Intelligence That Fights Crime",
+      "description": "",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/martin-markiewicz",
+      "id": "keynote-session---artificial-intelligence-that-fights-crime",
+      "speakerID": "martin-markiewicz"
+    },
+    "keynote-session---leadership-in-the-age-of-ai--between-promise-and-responsibility": {
+      "title": "Keynote Session -  Leadership in the Age of AI – Between Promise and Responsibility",
+      "description": "The development of artificial intelligence today sparks emotions similar to those stirred by past breakthrough technologies – from the Industrial Revolution to the internet. Together, we wonder whether this turning point will empower people or deepen inequalities. For example, the authors of Power & Progress argue that technology has too often brought more losses than benefits, exacerbating inequality and concentrating power. But in the world of AI, this history does not have to repeat itself.\n\r\n\n\r\nIn his talk, Dr. Maciej Madziński will discuss the real impact of AI on business and the labor market, and then ask the question: what kind of leadership is needed to make AI an opportunity rather than a threat? At the heart of this reflection will be the new competencies of leaders – the ability to combine technological innovation with social responsibility, the courage to make difficult decisions, and the skill of building trust within organizations.\n\r\n\n\r\nWe will reflect on the new, contemporary managerial competencies and challenges that AI brings. This will be 20 minutes about a future that is not predetermined – but depends on the path leaders choose today.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/dr-maciej-madzinski",
+      "id": "keynote-session---leadership-in-the-age-of-ai--between-promise-and-responsibility",
+      "speakerID": "dr-maciej-madziski"
+    },
+    "own-your-silicon--the-tenstorrent-computer-factory": {
+      "title": "Own Your Silicon – The Tenstorrent Computer Factory",
+      "description": "",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/christian-stenzel",
+      "id": "own-your-silicon--the-tenstorrent-computer-factory",
+      "speakerID": "christian-stenzel"
+    },
+    "two-talks-diving-into-the-heart-of-llms--fundamental-patterns-in-agentic-ai-applications": {
+      "title": "Two Talks: Diving into the Heart of LLMs & Fundamental Patterns in Agentic AI Applications",
+      "description": "Talk 1: Diving into the Heart of LLMs\n\r\n\n\r\nLarge Language Models are one of the fundamental pieces of the modern AI ecosystem - but hardly anyone understands how they actually work. It's a collective challenge, as it's very short sighted to rely your business and architecture on a technology that one might have a hardly any knowledge about. \n\r\n\n\r\nAnd it is critical to build a proper understanding, as many good and bad ideas can be evaluated, thanks to seeing how the internals work. At least to some degree.\n\r\n\n\r\nIn this talk we dive into the heart of LLMs - from user's prompt, though tokenizers, embeddings, meeting the core - transformers - and finally output generation.\n\r\n\n\r\n\n\r\nTalk 2: Fundamental Patterns in Agentic AI Applications\n\r\n\n\r\nAgentic applications are just applications, though the underlying \"service\" they're using is somehow specific. There are specific database-related patterns, queue-related patterns etc - not to mention various challenges specific to each. And LLM-based systems are not different! \n\r\n\n\r\nBoth scientists and the industry have already identified some key advantages and issues in practical work with large language models. And hence, there's a handful of very practical patterns that help us overcome the limitations of the context window, issues with the quality of models and their high infrastructure costs. This talk is a distilled SOTA when it comes to practical Agentic Architecture.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/tomasz-ducin",
+      "id": "two-talks-diving-into-the-heart-of-llms--fundamental-patterns-in-agentic-ai-applications",
+      "speakerID": ""
+    },
+    "code-smarter-not-harder-how-ai-coding-tools-boost-your-productivity": {
+      "title": "Code smarter, not harder: How AI Coding Tools Boost Your Productivity",
+      "description": "Software development is no longer just about writing code – it’s about efficiency, smart solutions, and focusing on what truly matters. AI-powered coding tools like GitHub Copilot, Cursor, bolt.new, and v0 are transforming the way we build software. This talk provides a comprehensive overview of the tools currently available, their use cases, and their limitations. It explores how these tools automate repetitive tasks, accelerate development processes, and create space for more creative and strategic work. Challenges and limitations are also addressed to provide a realistic perspective on their potential. The goal of this talk is to demonstrate how AI coding tools can optimize workflows and make day-to-day work more productive – without compromising on quality.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/daniel-sogl",
+      "id": "code-smarter-not-harder-how-ai-coding-tools-boost-your-productivity",
+      "speakerID": "daniel-sogl"
+    },
+    "ai-for-good": {
+      "title": "AI for Good",
+      "description": "Today, many AI applications focus on deepfakes, automated sales funnels, annoying chatbots, and more social media content. But what if we prioritized thinking about how AI can significantly improve healthcare, education, or enhance work-life balance? I will showcase five case studies of emotion recognition, optimizing surgical procedures, supporting children with ADHD, and enhancing the patient-doctor experience. Let's rock!",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/kris-wojewodzic",
+      "id": "ai-for-good",
+      "speakerID": "kris-wojewodzic"
+    },
+    "fix-your-broken-funnel-4-ecommerce-nightmares-ai-can-kill-with-mcp": {
+      "title": "Fix Your Broken Funnel: 4 eCommerce Nightmares AI Can Kill with MCP",
+      "description": "eCommerce is bleeding revenue from friction, fatigue, and missed signals. This talk dives into four high-impact problem zones—and how Generative AI, powered by Model Context Protocol (MCP), can fix them fast.\n\r\n\n\r\n🔍 The Four Nightmares:\n\r\n- Search That Doesn’t Sell: Use AI + MCP to turn vague queries into conversions.\n\r\n- Content That Doesn’t Scale: Auto-generate product copy, SEO, and ads with brand-aligned context.\n\r\n- Support That Doesn’t Help: Deploy AI agents that actually understand your customers.\n\r\n- Data That Doesn’t Decide: Let AI surface insights and simulate merchandising moves.\n\r\n\n\r\nMCP is the secret weapon—feeding AI the right context, tools, and signals to act with precision. No fluff. Just smarter commerce.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/christoffer-noring",
+      "id": "fix-your-broken-funnel-4-ecommerce-nightmares-ai-can-kill-with-mcp",
+      "speakerID": "christoffer-noring"
+    },
+    "you-dont-need-a-phd-to-build-with-ai-agents": {
+      "title": "You don’t need a PHD to build with AI Agents",
+      "description": "AI has taken the world by storm in recent years, with advancements in machine learning models, large language models (LLMs), retrieval-augmented generation (RAG), and vector databases dominating the conversation. But recently, the buzz has shifted toward AI agents—intelligent, autonomous systems that can reason, plan, and take action.\n\r\n\n\r\nAre we on the verge of an AI revolution? Should we expect an army of “Men in Black”?\n\r\n\n\r\nIn this session, we’ll demystify AI agents: what they are, the real-world problems they solve, and how they are built. More importantly, we’ll dive into how you can integrate AI agents into your applications—without needing a PhD in machine learning.\n\r\n\n\r\nThis talk will cover both the theory behind AI agents and a live-coding session to show how you can implement them in your own projects. Whether you're an experienced AI developer or just getting started, you'll leave with practical insights and code samples to incorporate AI Agents into your projects.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/sebastian-witalec",
+      "id": "you-dont-need-a-phd-to-build-with-ai-agents",
+      "speakerID": "sebastian-witalec"
+    },
+    "charted-coding-beyond-ai-assisted-tdd": {
+      "title": "Charted Coding: Beyond AI-Assisted TDD",
+      "description": "AI code assistants promise speed, but too often they lead to code-and-fix loops, review fatigue, and high maintenance costs. Charted Coding is a structured recipe for AI-assisted development: start with a lightweight design doc (the menu), set up scaffolding and WIP code (mise en place), then let tests guide the AI step by step. In this 20-minute talk, you’ll see how to keep AI from vibe-coding your project into chaos, while leveraging MCP servers and tools like WallabyJS to smoothen the workflow. The result: maintainable, predictable code your whole team can trust.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/younes-jaaidi",
+      "id": "charted-coding-beyond-ai-assisted-tdd",
+      "speakerID": "younes-jaaidi"
+    },
+    "lt-how-ai-supports-clinicians-when-data-misleads-and-criteria-collide": {
+      "title": "LT: How AI Supports Clinicians When Data Misleads and Criteria Collide",
+      "description": "Clinical decision-making is often challenged by noisy data and conflicting diagnostic criteria. In this talk, I will show how artificial intelligence can support clinicians when information is misleading or incomplete. By detecting pathologies in medical data and applying multi-criteria decision-making techniques, AI can highlight inconsistencies and suggest ways to resolve conflicting criteria. This approach does not replace the doctor but enhances their ability to make transparent and robust decisions. I will briefly outline a vision where AI acts as a co-pilot in healthcare, improving safety, efficiency, and trust in clinical decision-making.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/przemyslaw-wiktor-pardel",
+      "id": "lt-how-ai-supports-clinicians-when-data-misleads-and-criteria-collide",
+      "speakerID": "przemyslaw-wiktor-pardel"
+    },
+    "context-engineering": {
+      "title": "Context Engineering",
+      "description": "Context Engineering is rapidly emerging as a key skill in AI agent development. It focuses on strategically providing the right information at the right moment to guide an agent’s behavior. This talk explores practical techniques—from prompt design to retrieval pipelines and memory systems—illustrated with real-world examples. By taking a holistic view of today’s possibilities, developers will learn how to choose the most effective methods for each problem and build smarter, more reliable agents.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/marcin-dziedzic",
+      "id": "context-engineering",
+      "speakerID": "marcin-dziedzic"
+    },
+    "not-just-code---characters-the-art-of-human-oriented-programming": {
+      "title": "Not Just Code - Characters: The Art of Human Oriented Programming",
+      "description": "Software has always been about logic. But what if your next system needed empathy?\n\r\nIn this talk, we’ll explore Human Oriented Programming (HOP) - a new way to design multi-agent systems by giving them human roles, motivations, and personalities\n\r\n\n\r\nWe’ll look at how “humanizing” your agents leads to more natural collaboration, emergent behavior, and even creative problem-solving.\n\r\nBecause sometimes, the best way to build smarter machines… is to make them a little more human.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/nir-kaufman",
+      "id": "not-just-code---characters-the-art-of-human-oriented-programming",
+      "speakerID": "nir-kaufman"
+    },
+    "ai-in-retail-from-forecasting-to-conversational-decision-support": {
+      "title": "AI in Retail: From Forecasting to Conversational Decision Support",
+      "description": "A real-world case study on how machine learning models can predict sales using features such as alcoholic and non-alcoholic beverages and weather conditions. The talk will focus on experimenting with and optimizing different model parameters to improve forecast accuracy. As a next step, the system will be integrated with a GenAI-powered chatbot to make forecasts and scenarios easily accessible through natural conversation.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/karolina-zak",
+      "id": "ai-in-retail-from-forecasting-to-conversational-decision-support",
+      "speakerID": "karolina-zak"
+    },
+    "level-up-your-ai-and-your-code-with-mapbox-mcp--devkit": {
+      "title": "Level Up Your AI and Your Code with Mapbox MCP + DevKit",
+      "description": "What if your AI knew where it was and could reason about location like a pro? The Mapbox Model Context Protocol (MCP) gives AI agents and LLMs structured access to Mapbox so they can answer geospatial questions, plan routes, and understand context in ways that feel almost human. We will explore real-world use cases, share patterns for spatial reasoning, and peek at the future of AI-powered location experiences.\n\r\n \n\r\nThen we turn to the Mapbox MCP DevKit, the ultimate power-up for developers. DevKit connects to your coding assistant and gives you instant access to maps, data, and APIs without breaking your flow. It is like pair-programming with a geospatial expert who always has the right answer. Whether you are building apps, crunching data, or just want to impress your AI, MCP and DevKit make working with location smarter, faster, and a lot more fun.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/matthew-podwysocki",
+      "id": "level-up-your-ai-and-your-code-with-mapbox-mcp--devkit",
+      "speakerID": "matthew-podwysocki"
+    },
+    "from-hours-to-minutes-an-ai-case-study-with-sheriff": {
+      "title": "From Hours to Minutes: An AI Case Study with Sheriff",
+      "description": "Every developer has seen it happen—a tool with the potential to make a huge difference ends up underused because getting started feels overwhelming. That’s the situation we saw with Sheriff, a tool for enforcing architectural boundaries in TypeScript applications. Its benefits were clear, but in mature codebases, the setup process involved understanding a huge, complex dependency graph and crafting a configuration that could take days to get right.\n\r\n\n\r\nWe’re now exploring how AI, together with the Model Context Protocol (MCP), can change that. The idea is straightforward: use MCP to let the AI access project details, propose an initial configuration, and then iteratively refine it based on Sheriff’s own analysis. Early experiments suggest that this approach can replace a long, manual setup with a faster, guided process.\n\r\n\n\r\nIn this session, I’ll share the problem we set out to solve, how we’re approaching the integration, and the promising results we’ve seen so far. We’ll also discuss how this pattern might be applied to other tools to address real adoption challenges.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/rainer-hahnekamp",
+      "id": "from-hours-to-minutes-an-ai-case-study-with-sheriff",
+      "speakerID": "rainer-hahnekamp"
+    },
+    "ai-powered-angular-apps": {
+      "title": "AI-powered Angular Apps",
+      "description": "Artificial intelligence has become part of our daily lives. For software developers, it also opens new opportunities when writing or refactoring code. In this talk, however, we focus on runtime support for Angular frontends powered by AI.\n\r\n\n\r\nHow can a new micro-frontend be discovered and integrated with the help of AI?\n\r\nHow can routing be extended through natural language, with the navigation bar updated accordingly?\n\r\nHow can new views be seamlessly integrated into an existing application?\n\r\n\n\r\nThe combination of generic programming, micro-frontend architectures, and large language models (LLMs) opens the door to a new world of software development – one where applications can be extended in specific areas without requiring deep technical expertise.\n\r\n\n\r\nThis talk is aimed at software developers, architects, and technical managers who want to explore how artificial intelligence and web-based enterprise UIs can work together.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/michael-egger-zikes",
+      "id": "ai-powered-angular-apps",
+      "speakerID": "michael-egger"
+    },
+    "coding-with-ai-how-tools-like-cursor-are-changing-the-developers-workflow": {
+      "title": "Coding with AI: How Tools Like Cursor Are Changing the Developer's Workflow",
+      "description": "AI is no longer just a novelty in software development-it’s becoming a core part of the workflow. In this talk, we’ll explore the evolving landscape of AI-assisted development, with a special focus on Cursor, one of the most advanced IDEs in the space. We'll break down the key concepts behind supervised agents, compare the most prominent tools (including terminal-based alternatives), and unpack the privacy implications surrounding them. Drawing from hands-on experience, we’ll walk through practical examples highlighting both productivity gains and points of friction. The talk aims to provide a grounded perspective on how AI tools are being used in practice, and where the current trends may be pointing.",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/andres-gesteira",
+      "id": "coding-with-ai-how-tools-like-cursor-are-changing-the-developers-workflow",
+      "speakerID": "andres-gesteira"
+    },
+    "an-agent-walks-into-a-bar-and-meets-another-agent-multi-agent-systems-in-action": {
+      "title": "An Agent Walks Into a Bar... and Meets Another Agent: Multi-Agent Systems in Action",
+      "description": "In the world of AI, a single agent can accomplish a lot—but what happens when multiple agents enter the scene? This session is your ultimate guide to understanding multi-agent systems (MAS), the key to building scalable, intelligent, and collaborative AI solutions. We'll break down the core distinctions between single-agent and multi-agent architectures, explore real-world applications, and dive into the complexities of agent interaction, coordination, and fault tolerance. Whether you're designing autonomous trading bots, smart logistics networks, or AI-driven simulations, this talk will give you a solid foundation in MAS and its transformative potential. Get ready for a deep dive into the tech that’s reshaping AI collaboration!",
+      "conference": "ai-poland",
+      "href": "https://ai-poland.pl/speaker/2025/maxim-salnikov",
+      "id": "an-agent-walks-into-a-bar-and-meets-another-agent-multi-agent-systems-in-action",
+      "speakerID": "maxim-salnikov"
+    },
+    "ai-fundamentals-for-javascript-devs-and-myths-to-debunk": {
+      "title": "AI fundamentals for JavaScript devs (and myths to debunk)",
+      "description": "The recent tremendous growth of AI technology has created a huge gap between developer's understanding of \"AI\" really is and what it does - and its real mechanics, strengths and weaknesses. \n\r\n\n\r\nThere's so much going on in the area, in a relatively short time period, that an ordinary person is often left to \"believe\" what others claim. Like a shaman in a village who cast spells, while others just stand and stare.\n\r\n\n\r\nWhat's the cure for this massive technological hysteria? It's education...\n\r\n\n\r\nHence, in this talk, we'll cover the most fundamental aspects around machine learning - which will enable listeners to question many false claims. Get ready for a short, yet deep dive into tensors, ecosystem, APIs and Agentic systems.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/tomasz-ducin",
+      "id": "ai-fundamentals-for-javascript-devs-and-myths-to-debunk",
+      "speakerID": ""
+    },
+    "breaking-and-securing-oauth-20-in-frontends": {
+      "title": "Breaking and securing OAuth 2.0 in frontends",
+      "description": "Everyone agrees that Cross-Site Scripting (XSS) is a real threat to browser-based applications, yet many underestimate its true power. Common practices like using Single Page Applications as OAuth 2.0 clients, with techniques such as refresh token rotation, fail to account for real-world attackers.\n\r\n\n\r\nThis talk will demonstrate two concrete hacks against frontend OAuth 2.0 clients, highlighting the underlying vulnerabilities. We will explore how to address these security shortcomings by introducing structural solutions like the Backend-for-Frontend pattern. By the end of this session, you will be fully up to speed with the latest updates to the \"\"OAuth 2.0 for Browser-based Apps\"\" specification, co-authored by the presenter. You will walk away with a solid understanding of OAuth 2.0 security in frontends and best practices for securing sensitive applications.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/dr-philippe-de-ryck",
+      "id": "breaking-and-securing-oauth-20-in-frontends",
+      "speakerID": "dr-philippe-de-ryck"
+    },
+    "rewrite-or-refactor-how-to-safely-move-legacy-apps-to-modern-frameworks": {
+      "title": "Rewrite or refactor? How to safely move legacy apps to modern frameworks.",
+      "description": "Sooner or later, every team faces the same question: how do we migrate from legacy code to a modern framework? Should we take the “big bang” approach and rewrite everything from scratch, or should we migrate progressively, piece by piece? In this talk, I’ll share real-world stories from large-scale frontend migrations and highlight the trade-offs of both strategies. We’ll explore the risks of freezing development for months, the complexity of running two worlds in parallel, and the decision-making criteria that help teams pick the right path.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/sylwia-laskowska",
+      "id": "rewrite-or-refactor-how-to-safely-move-legacy-apps-to-modern-frameworks",
+      "speakerID": "sylwia-laskowska"
+    },
+    "markojs-unsung-hero-of-scalable-web-frameworks": {
+      "title": "Marko.js: Unsung Hero of Scalable Web Frameworks",
+      "description": "Marko.js is a JavaScript framework created by eBay back in 2014. It offers super-efficient server-side rendering, making it ideal for big e-commerce sites and other multi-page apps where speed and SEO really matter. After over 10 years of development, Marko has some standout features that make it an interesting choice. In this talk, I’ll dive into these unique features and showcase some of Marko's innovative solutions. You might not use Marko.js at your company, but there’s still a lot you can learn from it to bring to your next project.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/eugene-fidelin",
+      "id": "markojs-unsung-hero-of-scalable-web-frameworks",
+      "speakerID": "eugene-fidelin"
+    },
+    "third-parties-improving-it-with-dx": {
+      "title": "Third parties, improving it with DX",
+      "description": "When developing web applications, developers often face significant challenges, particularly when managing head elements and integrating third-party tools. In this talk, we'll delve into the key issues that arise when incorporating third-party services into websites, including security, privacy, performance, and developer experience. We'll explore practical strategies for overcoming these challenges to build more secure, efficient, and user-friendly web applications.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/julien-huang",
+      "id": "third-parties-improving-it-with-dx",
+      "speakerID": "julien-huang"
+    },
+    "i-cant-believe-its-not-javascript": {
+      "title": "I Can't Believe It's Not JavaScript",
+      "description": "When building interactive features on a webpage, JavaScript is usually the way to go. However, with great JavaScript dependencies comes great website instability. Even a minor undefined element can cause your entire webpage to crash.\n\r\n \n\r\nThat’s where going back to the basics comes in. Thanks to modern Web APIs, it’s now possible to reduce JavaScript dependency on a website by swapping out JS components for their native HTML element or CSS feature counterparts.\n\r\n \n\r\nIn this talk, we’ll take a look at how to use HTML and CSS to build simpler alternatives to popular JavaScript components such as accordions, modals, scroll transitions, carousels etc We’ll also take a look at the performance and accessibility benefits and real-life applications and use-cases of these components.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/jemima-abu",
+      "id": "i-cant-believe-its-not-javascript",
+      "speakerID": "jemima-abu"
+    },
+    "the-fast-and-the-curious-taming-javascripts-idle-time": {
+      "title": "The Fast and the Curious: Taming JavaScript’s Idle Time",
+      "description": "Your app isn’t slow, it’s just rude! While you’re trying to scroll, it’s busy crunching data like there’s no tomorrow. In this talk, we’ll teach your JavaScript some manners.\n\r\n\n\r\nWe’ll peek under the hood of the browser’s event loop, meet the mysterious requestIdleCallback(), and learn how to make code wait its turn like a civilized citizen of the main thread. Expect smooth UIs, happy users, and a tiny scheduler that feels like React Fiber’s younger, cooler cousin.\n\r\n\n\r\nBecause performance isn’t only about doing things fast - it’s about doing them politely.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/nir-kaufman",
+      "id": "the-fast-and-the-curious-taming-javascripts-idle-time",
+      "speakerID": "nir-kaufman"
+    },
+    "lt-auto-generated-typescript-api-clients": {
+      "title": "LT: Auto-Generated TypeScript API Clients",
+      "description": "Discover how auto-generated TypeScript API clients can streamline development, improve consistency, and reduce manual coding effort. We will give a short introduction about API code generation tools, share hands-on experience and best practices.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/daria-poliakova",
+      "id": "lt-auto-generated-typescript-api-clients",
+      "speakerID": "daria-poliakova"
+    },
+    "rxjs-our-observable-past-present-and-future": {
+      "title": "RxJS: Our Observable Past, Present and Future",
+      "description": "RxJS started as a simple idea: treat events as first class citizens and make asynchronous programming composable. That dream grew into a library that influenced countless projects across the industry. In this talk we will explore why RxJS was created, how it evolved from its early days into a core tool for reactive programming, and what it has become today. We will look at the many domains where RxJS has spread, from backend systems to frontend frameworks, and discuss how its core concepts shaped modern development. Finally, we will explore where RxJS is headed, including its role in the browser and how you can take advantage of native Observables today to write cleaner, more expressive code.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/matthew-podwysocki",
+      "id": "rxjs-our-observable-past-present-and-future",
+      "speakerID": "matthew-podwysocki"
+    },
+    "javascriptless-apps-you-dont-need-js": {
+      "title": "JavaScriptless Apps: You don't need JS",
+      "description": "Imagine that you are allowed to pick a new tech stack for next product - which are mostly media like images, tables, lists and a bunch of buttons - what would you pick?\n\r\n \n\r\nAngular? React? Svelte? Solid? XState? MobX?\n\r\n \n\r\nWhat if I told you there are other ways for building interactive web applications, and the server is a central part of that?\n\r\n \n\r\nAnd here come hypermedia applications, powered by HTMX, which empower servers to control browsered-rendered web applications, still maintaining interactivity.\n\r\n \n\r\nIn this presentation we will see a glimpse of what HTMX is and how we can utilize it to provide good-enough experience, while maintaining evolvability of our apps.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/damian-plaza",
+      "id": "javascriptless-apps-you-dont-need-js",
+      "speakerID": "damian-paza"
+    },
+    "typescript-meets-iot-safe-programming-for-embedded-devices": {
+      "title": "TypeScript meets IoT: safe programming for embedded devices",
+      "description": "This talk explores how TypeScript can bring the power of type safety, scalability and maintainability to IoT programming. Using TypeScript with Node.js and frameworks like Johnny-Five or Espruino, developers can write type-safe code to control and monitor IoT devices such as Raspberry Pi, Arduino or ESP32. The session includes real-world examples and a live demo of building a simple IoT application with TypeScript.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/soumaya-erradi",
+      "id": "typescript-meets-iot-safe-programming-for-embedded-devices",
+      "speakerID": "soumaya-erradi"
+    },
+    "javascript-as-a-crime-scene--improve-your-architecture-with-a-forensic-analysis": {
+      "title": "JavaScript as a Crime Scene – Improve your Architecture with a Forensic Analysis!",
+      "description": "Software solutions must be maintainable in the long term, and good modularization supports this. But how do you know whether the originally defined structure is still viable? How do you find out where improvements are needed?\n\r\n\n\r\nIn this session, we investigate forensic code analysis, which examines source code together with historical information from your source code control system to uncover hidden valuable patterns. We discuss what’s behind Hotspots, Change Coupling, and Team/Code Alignment and what they tell us about your architecture.\n\r\n\n\r\nBy the end, you will know how to use a Forensic Analysis to ensure long-term maintainability for your solutions.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/manfred-steyer",
+      "id": "javascript-as-a-crime-scene--improve-your-architecture-with-a-forensic-analysis",
+      "speakerID": "manfred-steyer"
+    },
+    "fast--lazy--proven-patterns-for-improving-web-performance": {
+      "title": "Fast & Lazy – Proven patterns for improving web performance",
+      "description": "Slow load times, lack of interactivity, and unexpected layout shifts are examples of issues that will affect perceived performance of your website. With the evolution of the web, users expect the best experience while using websites so we must deliver! In this talk, I will share with you; web performance metrics that you should regularly audit, methods for continuous performance auditing, and design patterns with good practices. This should help you improve the performance of your website and deliver a great experience to your users.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/jakub-andrzejewski",
+      "id": "fast--lazy--proven-patterns-for-improving-web-performance",
+      "speakerID": "jakub-andrzejewski"
+    },
+    "bring-your-own-model-using-transformersjs": {
+      "title": "Bring Your Own Model using Transformers.js",
+      "description": "Take your web apps to the next level by running custom-trained machine learning models entirely in the browser. In this session, we’ll walk through how to fine-tune a model, convert it for client-side use, and integrate it seamlessly into your frontend using Transformers.js.\n\r\n Whether you're adapting a model for a specific domain or building offline-first AI features, we’ll show you how to bridge training and deployment in one streamlined workflow. Own the model, own the experience-intelligent frontends start here!",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/markus-ingvarsson",
+      "id": "bring-your-own-model-using-transformersjs",
+      "speakerID": "markus-ingvarsson"
+    },
+    "beyond-requests-postman-for-conscious-api-developers": {
+      "title": "Beyond Requests: Postman for Conscious API Developers",
+      "description": "In this session, I’ll show how developers can use Postman consciously — as a tool that supports the entire API lifecycle during development and testing.\n\r\n \n\r\nWe’ll walk through practical use cases for variables, environments, and secrets. You’ll see how to write robust test scripts, how pre-request logic can help simulate edge cases, and how to avoid common pitfalls that slow teams down. I’ll also show how to use Newman to run tests in CI pipelines and share some battle-tested patterns I rely on as a tech lead.\n\r\n \n\r\nIf you’ve used Postman before but only scratched the surface — this talk will help you unlock its real potential as part of your daily developer toolkit.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/micha-jawulski",
+      "id": "beyond-requests-postman-for-conscious-api-developers",
+      "speakerID": "micha-jawulski"
+    },
+    "the-inp-score-what-it-is-and-how-to-improve-it": {
+      "title": "The INP score: What it is and how to improve it",
+      "description": "The Input Latency (INP) metric is a measure of how long it takes for a website to respond to user input. It is a critical metric for user experience, as it can affect how quickly users can interact with your website and this one replaced the FID metric in March 2024\n\r\n\n\r\nAn interaction is composed of three parts\n\r\n - The Input delay\n\r\n - The callback events\n\r\n - The presentation delay\n\r\n \n\r\nUnfortunately, optimizing only one of these three parts will not be enough to optimize the INP metric.\n\r\nBut what do these parts correspond to and how can they all be optimized? \n\r\nBy the end of this talk, you will be well-equipped to improve the INP of your website and provide a better user experience for your customers",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/frizzarin-nicolas",
+      "id": "the-inp-score-what-it-is-and-how-to-improve-it",
+      "speakerID": "frizzarin-nicolas"
+    },
+    "the-future-of-web-ai-integrating-on-device-models-and-llms-in-the-browser": {
+      "title": "The Future of Web AI: Integrating On-Device Models and LLMs in the Browser",
+      "description": "The web browser is transforming into a powerful AI platform - no cloud required. From instant translations to real-time image segmentation, modern browsers now pack sophisticated AI capabilities that work offline, protect privacy, and run with native speed. Through frameworks like TensorFlow.js, Transformers.js, MediaPipe, WebLLM and Chrome's built-in AI APIs, developers can now tap into device GPUs and AI accelerated chips to run narrow and generative AI models directly in the browser. Furthermore, many open AI models are on the rise ranging from small to very large LLMs. Discover how to harness these technologies with code examples and demonstrations to build faster, more private, and cloud-independent web applications that work anywhere. The future of web AI runs in your browser - and it's ready for production today.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/nder-ceylan",
+      "id": "the-future-of-web-ai-integrating-on-device-models-and-llms-in-the-browser",
+      "speakerID": "nder-ceylan"
+    },
+    "introduction-to-cypress-for-end-to-end-testing": {
+      "title": "Introduction to Cypress for end-to-end testing",
+      "description": "We will test a web application from scratch using Cypress. Step by step, we will learn about Cypress features, implement those in our tests. We will be testing various aspects of the application (navigation, clicks, user input), and see how to debug and improve our tests, make then more readable, and even how to mock the server-side in order to test more scenarios on the front-end.",
+      "conference": "js-poland",
+      "href": "https://js-poland.pl/speaker/alain-chautard",
+      "id": "introduction-to-cypress-for-end-to-end-testing",
+      "speakerID": "alain-chautard"
+    }
+  },
+  "speakers": {
+    "minko-gechev": {
+      "id": "minko-gechev",
+      "name": "Minko Gechev",
+      "bio": "Minko is an engineer in the Angular team at Google. He loves to experiment with abstract theoretical computer science concepts transform them into robust industrial solutions. Minko’s working on compilers, tools for static code analysis, and machine learning. Some his projects are the book “Switching to Angular”, Guess.js, codelyzer, the official Angular style guide, the Go linter revive, and many others.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "USA",
+      "image": "https://ng-poland.pl/images/speakers/angular-minko-gechev.webp",
+      "socials": {
+        "twitter": "https://twitter.com/mgechev",
+        "github": "https://github.com/mgechev"
+      },
+      "action": [
+        "https://www.youtube.com/embed/65DFloDja_o",
+        "https://www.youtube.com/embed/2M17gRQbgfI"
+      ],
+      "sessions": [
+        "keynote-session---the-future-of-angular--angular-team-qa-session"
+      ]
+    },
+    "alex-rickabaugh": {
+      "id": "alex-rickabaugh",
+      "name": "Alex Rickabaugh",
+      "bio": "Alex Rickabaugh is a software engineer at Google, and for the last years has been a core member of the Angular team. Throughout his time on Angular, Alex has worked on the Service Worker implementation for Progressive Web Apps, server-side rendering support, and a rewrite of the HTTP API. Currently, he works on the Angular Compiler, getting it ready for the next generation architecture, Angular Ivy.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "USA",
+      "image": "https://ng-poland.pl/images/speakers/angular-alex-rickabaugh.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/alex-rickabaugh-1ab7b84/",
+        "github": "https://github.com/alxhub"
+      },
+      "action": [
+        "https://www.youtube.com/embed/QtTLZRIVaKk"
+      ],
+      "sessions": [
+        "keynote-session--angular-team-qa-session"
+      ]
+    },
+    "jeremy-elbourn": {
+      "id": "jeremy-elbourn",
+      "name": "Jeremy Elbourn",
+      "bio": "Jeremy is the tech lead for Angular and has been involved with the Angular community since 2013. Jeremy's coding passions include code health, accessibility, and treating CSS with the respect it deserves.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "USA",
+      "image": "https://ng-poland.pl/images/speakers/angular-jeremy-elbourn.webp",
+      "socials": {
+        "github": "https://github.com/jelbourn",
+        "linkedin": "https://www.linkedin.com/in/jeremy-elbourn-45968422/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/DPlaYCEmzDA",
+        "https://www.youtube.com/embed/WRhnJne7M00",
+        "https://www.youtube.com/embed/UnT_ojF5ptU"
+      ],
+      "sessions": [
+        "keynote-session---the-future-of-angular--angular-team-qa-session"
+      ]
+    },
+    "jens-kuehlers": {
+      "id": "jens-kuehlers",
+      "name": "Jens Kuehlers",
+      "bio": "Jens is a Technical Program Manager with the Angular team at Google, where he focuses on managing the release schedule, prioritizing key features and making sure user needs are met. With 17 years of experience at Google, Jens has worked on a variety of things, from building technical solutions for Cloud Networking and running infrastructure projects in Sub-Saharan Africa to serving as a network engineer for Google's global network.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "Germany",
+      "image": "https://ng-poland.pl/images/speakers/angular-jens-kuehlers.webp",
+      "socials": {
+        "github": "https://github.com/thesmiler",
+        "linkedin": "https://www.linkedin.com/in/kuehlers/"
+      },
+      "action": [],
+      "sessions": [
+        "angular---building-in-the-open--angular-team-qa-session"
+      ]
+    },
+    "pawel-kozlowski": {
+      "id": "pawel-kozlowski",
+      "name": "Pawel Kozlowski",
+      "bio": "Open source hacker, AngularJS book author, AngularUI lead developer. Pawel is an software-development addict who believes in free, open source software. He is a core contributor to the AngularJS framework, AngularUI, Karma-runner and several other projects. He is the co-author of the \"Mastering Web Application Development with AngularJS\" book. When not coding, Pawel can be spotted speaking at various software development conferences.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "France",
+      "image": "https://ng-poland.pl/images/speakers/angular-pawel-kozlowski.webp",
+      "socials": {
+        "twitter": "https://twitter.com/pkozlowski_os",
+        "linkedin": "https://www.linkedin.com/in/pawel-kozlowski-7121a6/"
+      },
+      "action": [],
+      "sessions": [
+        "keynote-session--angular-team-qa-session"
+      ]
+    },
+    "catalina-patio": {
+      "id": "catalina-patio",
+      "name": "Catalina Patiño",
+      "bio": "I'm a Software Engineer at Google with nearly five years of experience contributing to the Google Cloud platform. My work is driven by a strong commitment to code health, ensuring development processes are as smooth as possible. Currently, my primary focus involves meticulous release management to guarantee the safe deployment of my team's applications.",
+      "role": "Software Engineer",
+      "company": "Google",
+      "country": "Colombia",
+      "image": "https://ng-poland.pl/images/speakers/angular-catalina-patino.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/catapatino/"
+      },
+      "action": [],
+      "sessions": [
+        "performance-lessons-from-the-worlds-largest-angular-application"
+      ]
+    },
+    "piotr-tomiak": {
+      "id": "piotr-tomiak",
+      "name": "Piotr Tomiak",
+      "bio": "Piotrek is a Software Developer in the WebStorm team at JetBrains. His main focus is support for HTML and web frameworks, especially Angular. He has a long history of working on tooling for Angular ever since early 2.0.0-beta versions.",
+      "role": "Senior Software Developer",
+      "company": "JetBrains",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/angular-piotr-tomiak.webp",
+      "socials": {
+        "twitter": "https://twitter.com/piotrektomiak",
+        "linkedin": "https://www.linkedin.com/in/piotr-tomiak-6aa287b1/"
+      },
+      "action": [],
+      "sessions": [
+        "boosting-angular-productivity-with-webstorm"
+      ]
+    },
+    "joanna-ostrowska": {
+      "id": "joanna-ostrowska",
+      "name": "Joanna Ostrowska",
+      "bio": "Joanna Ostrowska has been a Software Engineer on the Google Cloud Console Platform for five years. She believes in creating accessible, user-friendly interfaces that are also backed by solid, well-maintained code. She actively looks for ways to improve both the user experience and the developer experience.",
+      "role": "Software Engineer",
+      "company": "Google",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/angular-joanna-ostrowska.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/joanna-ostrowska-a6bab623a/"
+      },
+      "action": [],
+      "sessions": [
+        "performance-lessons-from-the-worlds-largest-angular-application"
+      ]
+    },
+    "matthieu-riegler": {
+      "id": "matthieu-riegler",
+      "name": "Matthieu Riegler",
+      "bio": "Matthieu is a senior software engineer from France. Member of the Angular team as an OpenSource contributor, he’s specialised in frontend technologies and collaborates actively in OpenSource. Occasional speaker at meetups and conferences, he loves to spread knowledge and technical insights.",
+      "role": "Angular Core Team",
+      "company": "Google",
+      "country": "France",
+      "image": "https://ng-poland.pl/images/speakers/angular-matthieu-riegler.webp",
+      "socials": {
+        "x.com": "https://x.com/Jean__Meche",
+        "linkedin": "https://www.linkedin.com/in/matthieuriegler/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/rL-gInxctZs",
+        "https://www.youtube.com/embed/QtTLZRIVaKk"
+      ],
+      "sessions": [
+        "angular---building-in-the-open--angular-team-qa-session"
+      ]
+    },
+    "brygida-fiejdasz": {
+      "id": "brygida-fiejdasz",
+      "name": "Brygida Fiejdasz",
+      "bio": "I'm an Angular GDE and Lead of the Frontend Competence Center at Avenga. Beyond that, I'm an Angular enthusiast who loves to code and enjoys sharing knowledge – on stage, at meetups, and on my YouTube channel “Speed Date with Angular”. In my free time, I'm an explorer and a proud cat mom.",
+      "role": "GDE for Angular",
+      "company": "Lead of Frontend Competence Center, Avenga",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/angular-brygida-fiejdasz.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/brygidafiejdasz/",
+        "x.com": "https://x.com/brydziaf"
+      },
+      "action": [
+        "https://www.youtube.com/embed/WZ7Li6uZSYo"
+      ],
+      "sessions": [
+        "no-zone-no-problem---building-angular-apps-without-zonejs"
+      ]
+    },
+    "ukasz-jancewicz": {
+      "id": "ukasz-jancewicz",
+      "name": "Łukasz Jancewicz",
+      "bio": "Staff Software Engineer at Google, based in Warsaw, Poland. For 7 years, he has been developing Google Cloud Console, probably the largest Angular application in the world. Angular enthusiast. Evangelist of standardization, code health, and testing.",
+      "role": "Staff Software Engineer",
+      "company": "Google",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/angular-lukasz-jancewicz.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/jancewicz/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/ZeAVUfNZ3rI"
+      ],
+      "sessions": [
+        "performance-lessons-from-the-worlds-largest-angular-application"
+      ]
+    },
+    "kasia-biernat": {
+      "id": "kasia-biernat",
+      "name": "Kasia Biernat",
+      "bio": "Kasia is a Principal Frontend Developer at Hyland with over 10 years of experience in IT. For the past few years, she’s been primarily working with Angular, but isn’t afraid to dive into the backend when needed. She enjoys clean, efficient code, good practices, and modern solutions. After hours, she takes care of two lazy cats and one very active toddler, plans her next travels, or battles gravity in the training room.",
+      "role": "Kluba - Principal Software Engineer",
+      "company": "Hyland",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/ng-kasia-biernat-kluba.webp",
+      "socials": {
+        "x.com": "https://x.com/kathrine000",
+        "linkedin": "https://www.linkedin.com/in/kbiernat/"
+      },
+      "action": [],
+      "sessions": [
+        "lt-style-like-a-pro-future-proof-angular-material-in-5-minutes"
+      ]
+    },
+    "manfred-steyer": {
+      "id": "manfred-steyer",
+      "name": "Manfred Steyer",
+      "bio": "Trainer and Consultant with focus on Angular. Google Developer Expert (GDE) who writes for O'Reilly and the German Java Magazine. Regularly speaks at conferences.",
+      "role": "GDE for Angular",
+      "company": "softwarearchitekt.at",
+      "country": "Austria",
+      "image": "https://ng-poland.pl/images/speakers/angular-manfred-steyer.webp",
+      "socials": {
+        "twitter": "https://twitter.com/ManfredSteyer",
+        "linkedin": "https://www.linkedin.com/in/manfred-steyer-84645821/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/Zdh1E6WnmMI",
+        "https://www.youtube.com/embed/ev_Gv-D2R10",
+        "https://www.youtube.com/embed/EmVH-9f1WvE"
+      ],
+      "sessions": [
+        "reactive-thinking-with-signals-and-the-new-httpresource",
+        "javascript-as-a-crime-scene--improve-your-architecture-with-a-forensic-analysis"
+      ]
+    },
+    "alex-okrushko": {
+      "id": "alex-okrushko",
+      "name": "Alex Okrushko",
+      "bio": "Alex is a Senior Software Engineer  at Snowflake. He is part of the NgRx team, GDE in Angular, @AngularToronto organizer and co-organizer of the official Angular Discord. In his free time, he loves to learn & share the knowledge, provides NgRx workshops and helps with http://ts.dev/style - the TypeScript style guide.",
+      "role": "Senior Software Engineer",
+      "company": "Snowflake",
+      "country": "Canada",
+      "image": "https://ng-poland.pl/images/speakers/angular-alex-okrushko.webp",
+      "socials": {
+        "twitter": "https://twitter.com/AlexOkrushko",
+        "github": "https://github.com/alex-okrushko",
+        "linkedin": "https://linkedin.com/in/alex-okrushko-64262a33/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/PLVE-ZfnM-o"
+      ],
+      "sessions": [
+        "ngrx-signalstore-the-ultimate-tool-for-modern-state-management"
+      ]
+    },
+    "nir-kaufman": {
+      "id": "nir-kaufman",
+      "name": "Nir Kaufman",
+      "bio": "In a long-time relationship with web development as a developer, author, consultant, and trainer. Google Developer Expert in Angular & Web technologies. Tech community activist, founder of \"Tech a Hike\" - The first off-road tech community. Vegan (but nice!), music producer at nights, off-road 4X4 guide at weekends.",
+      "role": "Tech Lead",
+      "company": "Full-stack AI Engineer, GDE, Tikal",
+      "country": "Israel",
+      "image": "https://ng-poland.pl/images/speakers/angular-nir-kaufman.webp",
+      "socials": {
+        "x.com": "https://x.com/nirkaufman",
+        "linkedin": "https://www.linkedin.com/in/nirkaufman/",
+        "youtube": "https://www.youtube.com/nirkaufman101"
+      },
+      "action": [
+        "https://www.youtube.com/embed/-VZ3BzVmokY",
+        "https://www.youtube.com/embed/VpZ6mf4P1PY",
+        "https://www.youtube.com/embed/QwyMQRLJ1js"
+      ],
+      "sessions": [
+        "angular-without-the-framework-when-you-stop-following-the-rules",
+        "not-just-code---characters-the-art-of-human-oriented-programming",
+        "the-fast-and-the-curious-taming-javascripts-idle-time"
+      ]
+    },
+    "michael-egger": {
+      "id": "michael-egger",
+      "name": "Michael Egger",
+      "bio": "Michael Egger-Zikes is an experienced software architect, trainer, and consultant with a focus on Angular in the field of business applications. As a member of the ANGULARarchitects expert network, he has supervised and implemented large enterprise-scale Angular projects in the public and private sectors.\n\r\n\n\r\nAs an external (part-time) lecturer, he also teaches this topic at a university of applied sciences in Graz, Austria. The business informatics graduate has a lot of experience with software engineering and automating business processes.",
+      "role": "Zikes - Trainer & Consultant",
+      "company": "AngularArchitects.io",
+      "country": "Austria",
+      "image": "https://ng-poland.pl/images/speakers/angular-michael-egger-zikes.webp",
+      "socials": {
+        "twitter": "https://twitter.com/mikezks",
+        "github": "https://github.com/mikezks"
+      },
+      "action": [
+        "https://www.youtube.com/embed/zrNOwag65WY",
+        "https://www.youtube.com/embed/QtTLZRIVaKk"
+      ],
+      "sessions": [
+        "signal-forms-meet-the-signal-store",
+        "ai-powered-angular-apps"
+      ]
+    },
+    "younes-jaaidi": {
+      "id": "younes-jaaidi",
+      "name": "Younes Jaaidi",
+      "bio": "Younes is a Software Cook born in eXtreme Programming, which made him a passionate advocate of Collective Ownership, TDD and snacks in the office.\n\r\n\n\r\nHe trains and coaches teams like yours to cook better apps. He’s also an NX champion, a Google Developer Expert for Angular and Web Technologies and a mediocre sailor.\n\r\n\n\r\nHis favorite command is `sleep 300; git reset --hard; git clean -df`",
+      "role": "Software Development Cook",
+      "company": "Teacher & Coach, GDE",
+      "country": "France",
+      "image": "https://ng-poland.pl/images/speakers/angular-younes-jaaidi.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/yjaaidi/",
+        "twitter": "https://twitter.com/yjaaidi",
+        "github": "https://github.com/yjaaidi"
+      },
+      "action": [
+        "https://www.youtube.com/embed/hmzVN7DHWOw"
+      ],
+      "sessions": [
+        "component-testing-that-feels-like-playwright--because-it-is",
+        "charted-coding-beyond-ai-assisted-tdd"
+      ]
+    },
+    "vojtech-maek": {
+      "id": "vojtech-maek",
+      "name": "Vojtech Mašek",
+      "bio": "I am a software engineer focusing on the front-end with expertise in Angular, TypeScript, and Agile development. I lead development teams to release production-ready products, helping understand many concepts from performance or size optimizations to server-side rendering and general code quality.",
+      "role": "Director of Engineering",
+      "company": "FlowUp",
+      "country": "Czech Republic",
+      "image": "https://ng-poland.pl/images/speakers/angular-vojtech-masek.webp",
+      "socials": {
+        "twitter": "https://twitter.com/VojtechMasek",
+        "github": "https://github.com/vmasek"
+      },
+      "action": [
+        "https://www.youtube.com/embed/0GrXnpyoVrc"
+      ],
+      "sessions": [
+        "hidden-gems-in-angular-hybrid-rendering-new-routing-features-and-beyond"
+      ]
+    },
+    "alexander-thalhammer": {
+      "id": "alexander-thalhammer",
+      "name": "Alexander Thalhammer",
+      "bio": "Passionate front-end developer and architect who has been involved in the planning and implementation of web-based business applications since 2001. Together with his teams, he has developed solutions for large international corporations. Originally working as a backend developer, his technological focus has been exclusively on frontend and Angular since 2017. Since 2020, he has been working as an Angular trainer and consultant.",
+      "role": "Passionate Angular Developer",
+      "company": "Angular Architects",
+      "country": "Austria",
+      "image": "https://ng-poland.pl/images/speakers/angular-alexander-thalhammer.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/thalhammer/",
+        "github": "https://github.com/L-X-T",
+        "x.com": "https://x.com/LX_T"
+      },
+      "action": [],
+      "sessions": [
+        "incremental-hydration"
+      ]
+    },
+    "tomas-trajan": {
+      "id": "tomas-trajan",
+      "name": "Tomas Trajan",
+      "bio": "I enable developer teams to deliver successful Angular applications through delivery of expert level core architecture, training & consulting • Google Developer Expert for Angular (GDE) • Founder of Angular Experts.io",
+      "role": "Architect",
+      "company": "Consultant and Trainer, GDE , AngularExperts.io",
+      "country": "Switzerland",
+      "image": "https://ng-poland.pl/images/speakers/angular-tomas-trajan.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/tomastrajan/",
+        "x.com": "https://x.com/tomastrajan"
+      },
+      "action": [
+        "https://www.youtube.com/embed/zQLVwlp5nuI"
+      ],
+      "sessions": [
+        "automated-angular-architecture-validation-for-project-success-and-better-ai-agent-support"
+      ]
+    },
+    "rainer-hahnekamp": {
+      "id": "rainer-hahnekamp",
+      "name": "Rainer Hahnekamp",
+      "bio": "Rainer Hahnekamp is a Google Developer Expert and a trusted collaborator on the NgRx team. He works as a trainer and consultant within the Angular Architects expert network, specializing in Angular and Spring. Rainer regularly provides in-depth training sessions and offers a weekly overview of key events in the Angular ecosystem on YouTube through ng-news.",
+      "role": "Trainer and Consultant",
+      "company": "AngularArchitects.io",
+      "country": "Austria",
+      "image": "https://ng-poland.pl/images/speakers/angular-rainer-hahnekamp.webp",
+      "socials": {
+        "youtube": "https://www.youtube.com/@RainerHahnekamp",
+        "twitter": "https://twitter.com/rainerhahnekamp"
+      },
+      "action": [
+        "https://www.youtube.com/embed/Zdh1E6WnmMI",
+        "https://www.youtube.com/embed/Sur8QwV51uo"
+      ],
+      "sessions": [
+        "component-testing-that-feels-like-playwright--because-it-is",
+        "from-hours-to-minutes-an-ai-case-study-with-sheriff"
+      ]
+    },
+    "rafal-brzoska": {
+      "id": "rafal-brzoska",
+      "name": "Rafal Brzoska",
+      "bio": "Rafał is Angular Silesia Meetup organizer, Soultions Architect, Software Developer and Angular Trainer in Future Processing, where he has been preparing spicy frontend apps for several years. An insightful observer of frontend technologies, especially Javascript, TypeScript and Angular. As a trainer he also works for Bottega IT Minds. He draws his power from family - wife and two children, drinks YerbaMate and plays the accordion.\"",
+      "role": "Solution Architect",
+      "company": "Future Processing",
+      "country": "Poland",
+      "image": "https://ng-poland.pl/images/speakers/ng-rafal-brzoska.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/rafalbrzoska/"
+      },
+      "action": [],
+      "sessions": [
+        "lt-when-angular-code-meets-reality---epic-fails---ai-edition-2025"
+      ]
+    },
+    "katarzyna-starosawska": {
+      "id": "katarzyna-starosawska",
+      "name": "Katarzyna Starosławska",
+      "bio": "Katarzyna Starosławska is an expert in data and artificial intelligence with over 20 years of experience at the intersection of technology, strategy, and innovation. She advises management teams, public institutions, and European Union bodies on building digital competencies and responsibly implementing digital solutions at the national and European levels. She supports organizations in designing and implementing data-driven strategies, ensuring that solutions are not only technically sound, but also ethically applied and aligned with business objectives, regulations, and user needs. Her mission is to transform data into practical insights and lasting value through interoperability, data quality, and cross-sector collaboration.\n\r\n\n\r\nShe currently holds the following positions:\n\r\n  \n\r\n    Vice President of the Board at the SpeakLeash Foundation and Bielik.ai,\n\r\n    Member of the expert group on the Next Generation European Interoperability Framework (EIF) at the European Commission,\n\r\n    Senior HCP & AI Specialist – Euro HCP/Lumi Ai Factory, Academic Computer Center Cyfronet AGH,\n\r\n    Leader of the Data for AI stream and member of the AI in Public Administration group within the AI Working Groups (GRAI) at the Ministry of Digital Affairs,\n\r\n    Member of the working group on Public-Private Partnerships at the Ministry of Funds and Regional Policy,\n\r\n    Member of the working group on IT and mHealth in clinical trials at the Polish Association for Good Clinical Practice (GCPpl),\n\r\n    External expert for the Medical Research Agency, EIT Health, the REINFORCING project, NCP_WIDERA.NET, and the European Commission.\n\r\n  \n\r\nShe is also a frequent speaker, panelist, and conference moderator, and conducts workshops on the use of data and artificial intelligence in innovation, development, and building competitive advantage.",
+      "role": "Vice President of the Board",
+      "company": "SpeakLeash, Bielik.ai",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-katarzyna-staroslawska.webp",
+      "socials": {},
+      "action": [],
+      "sessions": [
+        "keynote-session---building-europes-sovereign-ai"
+      ]
+    },
+    "martin-markiewicz": {
+      "id": "martin-markiewicz",
+      "name": "Martin Markiewicz",
+      "bio": "Martin Markiewicz is a builder at heart. From hydropower plants that power communities to AI that fights financial crime, he has always been driven by big problems and the thrill of creating innovative solutions. His journey has taken him from studying math for fun, to software development and IT system integration in Poland, to building Silent Eight, a global leader in AI-driven financial crime compliance. Along the way, he has learned that the right combination of technology and human ingenuity can change entire industries — and he is here to make it happen.\n\r\n\n\r\nMartin focuses on bringing cutting-edge AI solutions to the world’s biggest banks, helping them tackle money laundering, terrorist financing, and other forms of financial crime. He is always on the lookout for new ways technology can solve hard problems — and if you are facing a challenge in compliance, he is ready to connect.",
+      "role": "CEO",
+      "company": "SILENT EIGHT",
+      "country": "USA",
+      "image": "https://ai-poland.pl/images/speakers/ai-martin-markiewicz.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/martinmarkiewicz/",
+        "x.com": "https://x.com/MartinMarkiewic"
+      },
+      "action": [
+        "https://www.youtube.com/embed/YtrWMCma_4M"
+      ],
+      "sessions": [
+        "keynote-session---artificial-intelligence-that-fights-crime"
+      ]
+    },
+    "dr-maciej-madziski": {
+      "id": "dr-maciej-madziski",
+      "name": "Dr Maciej Madziński",
+      "bio": "Dr Maciej Madziński is a Strategy & Digital Transformation Consultant, lecturer at Kozminski University, and MBA IT Programme Director. He has over fifteen years of managerial experience in strategy, digital transformation, and executive education, combining academic research with practical consulting.\n\r\n\n\r\nAs a Partner at Kirov & Partners, he has been advising C-level executives and organisations on building winning strategies, operating models, and leadership development. Previously, he served as COO at Laurens Coster, where he co-led the AI practice and supervised many AI-driven initiatives, from generative assistants to company-wide AI adoption programs.\n\r\n\n\r\nHe is passionate about the intersection of AI in business and new approaches to leadership, including organisational agility, coaching leadership, and positive leadership. He is curious about the intersection of AI and leadership.\n\r\nDr Madziński is also a Google Cloud Certified Generative AI Leader, a frequent keynote speaker on digital transformation, leadership, and AI adoption.",
+      "role": "Strategy & Digital Transformation",
+      "company": "MBA IT Programme Director, Kozminski University",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-maciej-madzinski.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/kozminski-university-doctoral-school-kudos/"
+      },
+      "action": [],
+      "sessions": [
+        "keynote-session---leadership-in-the-age-of-ai--between-promise-and-responsibility"
+      ]
+    },
+    "christian-stenzel": {
+      "id": "christian-stenzel",
+      "name": "Christian Stenzel",
+      "bio": "Christian Stenzel is the Director of Sales EMEA at Tenstorrent, where he helps customers harness the power of next-generation AI hardware. With experience spanning both AI startups and leading semiconductor companies such as Intel and AMD, Christian brings deep expertise in datacenter and embedded computing solutions. His career reflects a passion for advancing performance, scalability, and innovation across the AI hardware ecosystem. At AI Poland, he will share insights on the future of customizable and open compute in his talk, “Own Your Silicon – The Tenstorrent Computer Factory.”",
+      "role": "Director of Sales EMEA",
+      "company": "Tenstorrent",
+      "country": "Germany",
+      "image": "https://ai-poland.pl/images/speakers/ai-christian-stenzel.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/tenstorrent-inc./"
+      },
+      "action": [
+        "https://www.youtube.com/embed/xvX9zW4Sfok"
+      ],
+      "sessions": [
+        "own-your-silicon--the-tenstorrent-computer-factory"
+      ]
+    },
+    "daniel-sogl": {
+      "id": "daniel-sogl",
+      "name": "Daniel Sogl",
+      "bio": "Daniel Sogl is a software architect at Thinktecture AG, specializing in modern web development with Angular. He discovered his passion for AI-assisted coding early on and has since combined technical expertise with innovative development approaches. After working in consulting for the automotive and pharmaceutical industries and serving as the lead developer of a mobile brokerage app, he now helps companies implement scalable and sustainable solutions. As a trainer and consultant, he supports developers in leveraging the full potential of the latest Angular features and AI-powered tools. Sharing knowledge is his true passion.",
+      "role": "Software-Architekt",
+      "company": "Thinktecture AG",
+      "country": "Germany",
+      "image": "https://ai-poland.pl/images/speakers/ai-daniel-sogl.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/daniel-sogl/",
+        "x.com": "https://x.com/sogldaniel"
+      },
+      "action": [],
+      "sessions": [
+        "code-smarter-not-harder-how-ai-coding-tools-boost-your-productivity"
+      ]
+    },
+    "kris-wojewodzic": {
+      "id": "kris-wojewodzic",
+      "name": "Kris Wojewodzic",
+      "bio": "Kris Wojewodzic, PhD – researcher and CEO of Escola. In 2020-2025 he has been a Head of Research at AI projects valued over $15M. His clients include Amazon, Media Expert, Mercedes-Benz, Electrolux, E.ON, Żabka, ING Bank, ACBL, Orlen, Impel, and Orange, where he consults and advises on AI projects. He presented AI expertise at the Global AI Summit and the Global Leadership Conference in the US.",
+      "role": "CEO",
+      "company": "Escola",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-kris-wojewodzic.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/kris-escola/"
+      },
+      "action": [],
+      "sessions": [
+        "ai-for-good"
+      ]
+    },
+    "christoffer-noring": {
+      "id": "christoffer-noring",
+      "name": "Christoffer Noring",
+      "bio": "",
+      "role": "AI + MCP focused Software Engineer",
+      "company": "Microsoft",
+      "country": "UK",
+      "image": "https://ai-poland.pl/images/speakers/ai-christoffer-noring.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/christoffer-noring-3257061/",
+        "x.com": "https://x.com/chris_noring"
+      },
+      "action": [
+        "https://www.youtube.com/embed/jh_OAZbdOcg"
+      ],
+      "sessions": [
+        "fix-your-broken-funnel-4-ecommerce-nightmares-ai-can-kill-with-mcp"
+      ]
+    },
+    "sebastian-witalec": {
+      "id": "sebastian-witalec",
+      "name": "Sebastian Witalec",
+      "bio": "Sebastian is an expert in vector database technology. He is passionate about helping developers build and productize AI-based applications to take advantage of the latest cutting-edge developments in Machine Learning.\n\r\n \n\r\n Warning: Talks involving Sebastian may contain pictures and interesting facts about meerkats and raccoons.",
+      "role": "Director of Education and Developer Experience",
+      "company": "Weaviate",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-sebastian-witalec.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/sebawita/",
+        "x.com": "https://x.com/sebawita"
+      },
+      "action": [],
+      "sessions": [
+        "you-dont-need-a-phd-to-build-with-ai-agents"
+      ]
+    },
+    "przemyslaw-wiktor-pardel": {
+      "id": "przemyslaw-wiktor-pardel",
+      "name": "Przemyslaw Wiktor Pardel",
+      "bio": "Przemysław Wiktor Pardel, PhD, is an Assistant Professor and researcher with over 16 years of experience in data analysis, machine learning, and applied AI. He has worked in both academia and industry, including research and innovation projects at Google, where he supported initiatives combining advanced technologies with real-world applications. His academic and professional background includes developing intelligent systems for healthcare and financial services, with a strong focus on decision support and anomaly detection. Currently, he is shaping his habilitation research around methods for detecting data pathologies and resolving conflicts in multi-criteria decision-making, with applications in medicine, public health, and sports science. He is passionate about bridging the gap between research and practice through interdisciplinary collaborations.",
+      "role": "Assistant Professor",
+      "company": "Scientist & Inventor, Solution Architect, University of Rzeszow",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-przemyslaw-wiktor-pardel.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/pardel/",
+        "x.com": "https://x.com/PrzemekPardel"
+      },
+      "action": [],
+      "sessions": [
+        "lt-how-ai-supports-clinicians-when-data-misleads-and-criteria-collide"
+      ]
+    },
+    "marcin-dziedzic": {
+      "id": "marcin-dziedzic",
+      "name": "Marcin Dziedzic",
+      "bio": "Full-stack Software Engineer from Warsaw, specializing in Node.js, React, and building AI agents. With experience across both startups and large corporations, Marcin combines deep technical skills with real-world implementation of innovative AI solutions.",
+      "role": "Senior Node.js + React + AI Agents Developer",
+      "company": "7N",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-marcin-dziedzic.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/marcindziedzic8/"
+      },
+      "action": [
+        "https://www.youtube.com/embed/Xdczb_dl0pQ"
+      ],
+      "sessions": [
+        "context-engineering"
+      ]
+    },
+    "karolina-zak": {
+      "id": "karolina-zak",
+      "name": "Karolina Zak",
+      "bio": "Technology Specialist HEINEKEN, working on Business Intelligence and Machine Learning projects. Previously in fintech, focusing on risk analysis and process optimization. Active speaker – delivers internal AI trainings, as well as lectures at universities and Toastmasters on data and AI in business and technology.",
+      "role": "ML Engineer",
+      "company": "HEINEKEN",
+      "country": "Poland",
+      "image": "https://ai-poland.pl/images/speakers/ai-karolina-zak.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/karo-zak/"
+      },
+      "action": [],
+      "sessions": [
+        "ai-in-retail-from-forecasting-to-conversational-decision-support"
+      ]
+    },
+    "matthew-podwysocki": {
+      "id": "matthew-podwysocki",
+      "name": "Matthew Podwysocki",
+      "bio": "Matthew Podwysocki is a Staff Engineer at Mapbox, where he works on the Location AI team. Previously, he was a Principal Software Engineer at Microsoft, contributing to platforms such as the Azure SDK and Reactive Extensions (Rx). With a long-standing passion for open source and developer tooling, Matthew has been instrumental in shaping libraries and frameworks that support asynchronous and event-driven programming. He is also known for sharing his expertise with the community through talks, workshops, and open-source projects.",
+      "role": "Staff Engineer",
+      "company": "MapBox",
+      "country": "USA",
+      "image": "https://ai-poland.pl/images/speakers/ai-matthew-podwysocki.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/podwysocki/",
+        "x.com": "https://x.com/mattpodwysocki",
+        "github": "https://github.com/mattpodwysocki"
+      },
+      "action": [],
+      "sessions": [
+        "level-up-your-ai-and-your-code-with-mapbox-mcp--devkit",
+        "rxjs-our-observable-past-present-and-future"
+      ]
+    },
+    "andres-gesteira": {
+      "id": "andres-gesteira",
+      "name": "Andres Gesteira",
+      "bio": "Andres Gesteira is a Senior Frontend Architect based in Madrid. After spending seven years in Berlin building a wide range of Angular projects, from enterprise applications to experimental frontends, he now focuses on crafting scalable, elegant solutions with modern web technologies. Outside of coding, Andres is passionate about cinema and food, always looking for the next great film or culinary discovery.",
+      "role": "Senior Frontend Architect",
+      "company": "Fever",
+      "country": "Spain",
+      "image": "https://ai-poland.pl/images/speakers/ai-andres-gesteira.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/andres-gesteira-26a95813/",
+        "x.com": "https://x.com/georgekaplan_g"
+      },
+      "action": [],
+      "sessions": [
+        "coding-with-ai-how-tools-like-cursor-are-changing-the-developers-workflow"
+      ]
+    },
+    "maxim-salnikov": {
+      "id": "maxim-salnikov",
+      "name": "Maxim Salnikov",
+      "bio": "Maxim Salnikov is a tech and cloud community enthusiast based in Oslo. With over two decades of experience as a web developer, he shares his extensive knowledge of the web platform, cloud computing, and AI by speaking at and providing training for developer events worldwide. By day, Maxim plays a crucial role in supporting the development of cloud and AI solutions within European companies, serving as the leader of developer productivity business at Microsoft. During evenings, he can be found running events for Norway's largest web and cloud development communities. Maxim is passionate about exploring and experimenting with Generative AI possibilities, including AI-assisted development. To share his insights and connect with like-minded professionals globally, he founded and organized the inaugural Prompt Engineering Conference, the first of its kind on a global scale.",
+      "role": "AI-Native Developer Tools Solution Engineer",
+      "company": "Microsoft",
+      "country": "Norway",
+      "image": "https://ai-poland.pl/images/speakers/ai-maxim-salnikov.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/webmax/",
+        "x.com": "https://x.com/webmaxru"
+      },
+      "action": [],
+      "sessions": [
+        "an-agent-walks-into-a-bar-and-meets-another-agent-multi-agent-systems-in-action"
+      ]
+    },
+    "dr-philippe-de-ryck": {
+      "id": "dr-philippe-de-ryck",
+      "name": "Dr. Philippe De Ryck",
+      "bio": "Philippe De Ryck specializes in making web security accessible to developers and architects, leveraging his Ph.D. from KU Leuven to inform his comprehensive understanding of security challenges. As the founder of Pragmatic Web Security, he provides practical security training and consulting services to organizations worldwide. His online course platform offers a self-paced approach to learning about security. Philippe also actively helps shape OAuth 2.0 best practices as the co-author of the best practices for browser-based apps specification. Philippe is recognized as a Google Developer Expert, acknowledging his contributions to web application and API security. He also organizes SecAppDev, an annual week-long application security course in Belgium.",
+      "role": "Security Expert",
+      "company": "Founder, GDE, Pragmatic Web Security",
+      "country": "Belgium",
+      "image": "https://js-poland.pl/images/speakers/javascript-philippe-de-ryck.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/PhilippeDeRyck/"
+      },
+      "action": [],
+      "sessions": [
+        "breaking-and-securing-oauth-20-in-frontends"
+      ]
+    },
+    "sylwia-laskowska": {
+      "id": "sylwia-laskowska",
+      "name": "Sylwia Laskowska",
+      "bio": "Sylwia is a Senior JavaScript Developer with over a decade of experience. She has worked on a wide range of projects, from greenfield applications to complex migrations. As a Tech Lead, she focuses on helping teams modernize legacy codebases and build sustainable solutions.",
+      "role": "Senior JavaScript Developer",
+      "company": "Atos",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/javascript-sylwia-laskowska.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/sylwia-laskowska-5a8467131/"
+      },
+      "action": [],
+      "sessions": [
+        "rewrite-or-refactor-how-to-safely-move-legacy-apps-to-modern-frameworks"
+      ]
+    },
+    "eugene-fidelin": {
+      "id": "eugene-fidelin",
+      "name": "Eugene Fidelin",
+      "bio": "Engineering Manager & Frontend SME @ eBay, ex Frontend Architect @ Marktplaats. Experienced Full-stack Web Developer with 20+ years in the field. Enjoy helping teams to build well-tested, high-performing, and secure software using Javascript, Node.js, React and Marko.js.",
+      "role": "Engineering Manager & Frontend SME",
+      "company": "eBay",
+      "country": "Netherlands",
+      "image": "https://js-poland.pl/images/speakers/javascript-eugene-fidelin.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/eugef/"
+      },
+      "action": [],
+      "sessions": [
+        "markojs-unsung-hero-of-scalable-web-frameworks"
+      ]
+    },
+    "julien-huang": {
+      "id": "julien-huang",
+      "name": "Julien Huang",
+      "bio": "Julien started developping in 2020. He is now part of the Nuxt core team and currently working as a frontend developer at Leetchi in France. He dived into open-source almost 3 years ago and has made it his main hobby and his way to learn new things.",
+      "role": "Nuxt Core Team",
+      "company": "Leetchi",
+      "country": "France",
+      "image": "https://js-poland.pl/images/speakers/javascript-julien-huang.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/julien-huang/",
+        "x.com": "https://x.com/JulienHuang_dev"
+      },
+      "action": [],
+      "sessions": [
+        "third-parties-improving-it-with-dx"
+      ]
+    },
+    "jemima-abu": {
+      "id": "jemima-abu",
+      "name": "Jemima Abu",
+      "bio": "Jemima Abu is a self-taught Front End Developer who has been building accessible websites since 2017. She is a recognized Google Developer Expert, Microsoft MVP, and Certified Professional in Accessibility Core Competencies. She is passionate about improving diversity in tech and accessibility in web development.",
+      "role": "Front End Developer",
+      "company": "GDE, Microsoft MVP , CAIS",
+      "country": "UK",
+      "image": "https://js-poland.pl/images/speakers/js-jemima-abu.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/jemimaabu/"
+      },
+      "action": [],
+      "sessions": [
+        "i-cant-believe-its-not-javascript"
+      ]
+    },
+    "daria-poliakova": {
+      "id": "daria-poliakova",
+      "name": "Daria Poliakova",
+      "bio": "Daria began her journey as a markup developer, gradually growing into a skilled frontend engineer with 7 years of experience in web application development. Self-taught at first, she later earned a degree in Computer Science to deepen her understanding and broaden her career opportunities. She’s worked with both Angular and React, drawn to frontend because it offers the satisfaction of seeing her work come to life instantly. Dedicated to continuous growth, Daria enjoys sharing her knowledge and guiding younger developers, while always deepening her expertise in modern Angular.",
+      "role": "Front-end developer",
+      "company": "Conscensia",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/js-daria-poliakova.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/dariapoliakova/"
+      },
+      "action": [],
+      "sessions": [
+        "lt-auto-generated-typescript-api-clients"
+      ]
+    },
+    "damian-paza": {
+      "id": "damian-paza",
+      "name": "Damian Płaza",
+      "bio": "Problem solver and \"Solution problemer\", at the same time, with different ratios. I help to build things that sometimes work. Baptized in Control Engineering, Appreciating Functional Programming and modeling around language.",
+      "role": "Senior Software Engineer / Power Grid Gdańsk R&D Manager",
+      "company": "Volue/Bottega IT Minds",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/js-damian-plaza.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/damian-plaza/",
+        "x.com": "https://x.com/raimeyuu"
+      },
+      "action": [],
+      "sessions": [
+        "javascriptless-apps-you-dont-need-js"
+      ]
+    },
+    "soumaya-erradi": {
+      "id": "soumaya-erradi",
+      "name": "Soumaya Erradi",
+      "bio": "I'm an experienced web developer and a passionate IT and electronics trainer, specializing in frontend development and enterprise applications built with Angular.\n\r\n\n\r\nI spend most of my time exploring what's new in the tech world and helping other developers improve their skills.\n\r\n\n\r\nAs a conference speaker, I bring advanced Angular topics, tips for the integration of smart contracts and best solutions for web3 applications.",
+      "role": "Senior Software Developer",
+      "company": "Atlantis S.R.L.",
+      "country": "Italy",
+      "image": "https://js-poland.pl/images/speakers/angular-soumaya-erradi.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/soumaya-erradi/",
+        "github": "https://github.com/soumayaerradi",
+        "x.com": "https://x.com/sumy92"
+      },
+      "action": [],
+      "sessions": [
+        "typescript-meets-iot-safe-programming-for-embedded-devices"
+      ]
+    },
+    "ihor-maistrenko": {
+      "id": "ihor-maistrenko",
+      "name": "Ihor Maistrenko",
+      "bio": "Ihor is a Full Stack Software Engineer with over 10 years of experience in delivering high-quality solutions for his clients.\n\r\nThroughout his career, he has led cross-functional teams and been responsible for the entire software development lifecycle, ensuring seamless progress from design and architecture through to production releases, continuous support, and system enhancements.",
+      "role": "Angular / .NET Developer / Team Lead",
+      "company": "Conscensia",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/js-ihor-maistrenko.webp",
+      "socials": {
+        "linkedin": "http://linkedin.com/in/ihor-maistrenko"
+      },
+      "action": [],
+      "sessions": [
+        "lt-auto-generated-typescript-api-clients"
+      ]
+    },
+    "jakub-andrzejewski": {
+      "id": "jakub-andrzejewski",
+      "name": "Jakub Andrzejewski",
+      "bio": "Meet Jakub Andrzejewski, a Senior Fullstack Developer and Advocate at Monterail, and a key contributor to the tech world. As a Nuxt.js Ecosystem Member and Ambassador for Storyblok, Algolia, Cloudinary, and Supabase, Jakub's expertise spans a wide range of cutting-edge technologies. Recognized as a Google Developer Expert in Web Performance, Jakub is passionate about sharing his deep knowledge of Nuxt, Vue, and performance optimization. A dedicated Open Source Evangelist, he actively promotes community engagement and collaborative learning.",
+      "role": "Senior Fullstack Developer & Advocate",
+      "company": "GDE, Monterail",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/javascript-jakub-andrzejewski.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/jakub-andrzejewski/",
+        "twitter": "https://twitter.com/jacobandrewsky"
+      },
+      "action": [],
+      "sessions": [
+        "fast--lazy--proven-patterns-for-improving-web-performance"
+      ]
+    },
+    "markus-ingvarsson": {
+      "id": "markus-ingvarsson",
+      "name": "Markus Ingvarsson",
+      "bio": "Markus is a software engineer and a M.Sc. Computer Science graduate of Chalmers University of Technology. Whether it was playing World of Warcraft or working in sales, he has always enjoyed a good challenge. However, when he found the software development field, he realized he had struck gold. In addition to his work as a developer, Markus is also a co-organizer of the Angular Community Meetup.",
+      "role": "Back End Developer",
+      "company": "Podme",
+      "country": "Sweden",
+      "image": "https://js-poland.pl/images/speakers/javascript-markus-ingvarsson.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/markusingvarsson/",
+        "x.com": "https://x.com/markusingvarssn"
+      },
+      "action": [],
+      "sessions": [
+        "bring-your-own-model-using-transformersjs"
+      ]
+    },
+    "micha-jawulski": {
+      "id": "micha-jawulski",
+      "name": "Michał Jawulski",
+      "bio": "Michał is a technical lead and software engineer with over 13 years of experience. He has worked across a wide range of technology stacks—from database-heavy business logic and mobile and web applications to modern API-first systems. What ties it all together is his passion for JavaScript. He cares deeply about developer experience, sustainable architecture, and building tools that make teams more efficient.",
+      "role": "Managing Delivery Architect",
+      "company": "Capgemini",
+      "country": "Poland",
+      "image": "https://js-poland.pl/images/speakers/javascript-michal-jawulski.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/mjawulski/"
+      },
+      "action": [],
+      "sessions": [
+        "beyond-requests-postman-for-conscious-api-developers"
+      ]
+    },
+    "frizzarin-nicolas": {
+      "id": "frizzarin-nicolas",
+      "name": "Frizzarin Nicolas",
+      "bio": "Google Developer Expert in Web Technologies and Angular, also a Microsoft Most Valuable Professional, Nicolas is a French FontEnd specialist and User Interface Designer from Metz, France.\n\r\n \n\r\nHe works as a Developer Advocate and Senior Staff Engineer at Sfeir Luxembourg. Besides that, Nicolas is a speaker, and likes to contribute to the community by giving talks, trainings, writing articles or participating in open source projects like Ng Zorro",
+      "role": "Senior Staff Engineer",
+      "company": "GDE, SFEIR",
+      "country": "Luxembourg",
+      "image": "https://js-poland.pl/images/speakers/javascript-nicolas-frizzarin.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/nicolas-frizzarin/",
+        "x.com": "https://x.com/Nicooss54"
+      },
+      "action": [],
+      "sessions": [
+        "the-inp-score-what-it-is-and-how-to-improve-it"
+      ]
+    },
+    "nder-ceylan": {
+      "id": "nder-ceylan",
+      "name": "Önder Ceylan",
+      "bio": "Önder is award-winning seasoned tech leader, and GDE in Web Technologies specialized in full-stack software development. He's been driving innovation across web and mobile platforms since late 90s. Web technologies has always been his passion and nowadays he enjoys it as an independent contractor and entrepreneur. He believes in team work and he shares his knowledge with the communities as a co-organiser and speaker. He's also interested in photography, movies, cooking and dancing.",
+      "role": "Principal Engineer",
+      "company": "Google Developers Expert, Jumbo Supermarkten",
+      "country": "Netherlands",
+      "image": "https://js-poland.pl/images/speakers/javascript-onder-ceylan.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/onderceylan/",
+        "x.com": "https://x.com/onderceylan"
+      },
+      "action": [],
+      "sessions": [
+        "the-future-of-web-ai-integrating-on-device-models-and-llms-in-the-browser"
+      ]
+    },
+    "alain-chautard": {
+      "id": "alain-chautard",
+      "name": "Alain Chautard",
+      "bio": "Alain is a Google Developer Expert in Angular and Microsoft MVP in Web Technologies. His daily mission is to help development teams adopt Angular and build at scale with the framework. He has taught Angular to thousands of developers on all six continents!\n\r\n\n\r\nA world traveler and photographer, Alain is also an international conference speaker and a published author of several video courses with LinkedIn Learning.",
+      "role": "GDE",
+      "company": "Expert Web Consultant, Trainer, Mentor, Angular Training",
+      "country": "France",
+      "image": "https://js-poland.pl/images/speakers/javascript-alain-chautard.webp",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/achautard/",
+        "x.com": "https://x.com/AlainChautard"
+      },
+      "action": [],
+      "sessions": [
+        "introduction-to-cypress-for-end-to-end-testing"
+      ]
+    }
+  },
+  "conferences": [
+    "ng-poland",
+    "ai-poland",
+    "js-poland"
+  ]
+}

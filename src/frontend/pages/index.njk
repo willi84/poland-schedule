@@ -1,0 +1,165 @@
+---
+layout: base.template.njk
+title: Welcome repo-quality
+navigation: false
+footer: true
+---
+{%- from "./../templates/_setup/macros/component.macro.njk" import component -%}
+
+
+{# Daten aus _data/sessions.json #}
+{% set conferences = sessions.conferences or {} %}
+{% set speakers    = sessions.speakers or {} %}
+{% set sessionMap  = sessions.sessions or {} %}
+{% set sessionPairs = sessionMap | dictsort %} {# [ [id, obj], ... ] #}
+
+<section class="mt-4">
+{{ component("search", {
+    placeholder: "search session ...",
+    uid: "talks",
+    category: "talks",
+    no_result: ["no session found", "try with another search term."]
+  }) }}
+
+<section class="stack">
+
+  <ul id="list" class="stack"  data-search="talks">
+    {% for pair in sessionPairs %}
+      {% set s = pair[1] %}
+      {% set sp = speakers[s.speakerID] %}
+      {% set speakerName = sp and sp.name or s.speakerID %}
+        {% set role = sp and sp.role or '' %}
+      {% set company = sp and sp.company or '' %}
+      {% set country = sp and sp.country or '' %}
+      {% set indexText = (s.title ~ ' ' ~ speakerName ~ ' ' ~ (sp.role or '') ~ ' ' ~ company ~ ' ' ~ country) %}
+      <li
+      class="carxxd  searXXchable"
+        data-talk="{{ s.id }}"
+        data-conf="{{ (s.conference or '') | lower }}"
+        data-index="{{ indexText | lower }}"
+        data-searchable="{{s.title}} {{s.description}}  {{speakerName}} {{role}} {{company}} {{country}}"
+
+      >
+
+      <div class="card mb-3 text-white talk-card" stylXXe="max-width: 540px;" style="background-color: {{conferences[s.conference].color}};">
+  <div class="row g-0">
+    <div class="col-md-2">
+      {{
+            component("profile", {
+                item: {
+                    name: speakerName,
+                    plattform: "Speaker Profile",
+                    url: sp and sp.href or "#",
+                    class_modifier: "speaker-img",
+                    image: sp and sp.image or "",
+                    width: 200,
+                    height: 200
+                }
+            })
+        }}
+          {{
+            component("button_link", {
+                "type": "button",
+                "text": s.conference,
+                "image_url": conferences[s.conference].logo | safe,
+                "image_width": 20,
+                "image_height": 20,
+                "url": s.href,
+                "background_color": conferences[s.conference].colorSecondary,
+                "disabled": disabled
+            })
+        }}
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">
+           <a class="skill-value text-white" href="{{ s.href }}" rel="noopener noreferrer" target="_blank">🎙️ {{ s.title }}</a>
+           <a class="skill-search hidden text-white" href="{{ s.href }}" rel="noopener noreferrer" target="_blank">🎙️ {{ s.title }}</a>
+        </h5>
+        <h6>
+            <span class="chip" style="background: {{ conferences[s.conference].colorSecondary }};">
+                <span>
+                    <span class="skill-value">⭐ {{speakerName}}</span>
+                    <span class="skill-search hidden">⭐ {{speakerName}}</span>
+                </span>
+                {% if role %} 
+                <span>
+                    <span class="skill-value">- {{ role }}</span>
+                    <span class="skill-search hidden">- {{ role }}</span>
+                </span>
+                {% endif %}
+                {% if company %}
+                <span>
+                    <span class="skill-value">@ {{ company }}</span>
+                    <span class="skill-search hidden">@ {{ company }}</span>
+                </span>
+                {% endif %}
+                {% if country %}
+                <span>
+                    <span class="skill-value">({{ country }})</span>
+                    <span class="skill-search hidden">({{ country }})</span>
+                </span>
+                {% endif %}
+            </span>
+        </h6>
+        {% if s.description %}
+            <p class="card-text">
+                <span class="skill-value">{{ s.description }}</span>
+                <span class="skill-search hidden">{{ s.description }}</span>
+            </p>
+        {% endif %}
+
+        {# <p class="card-text tags text-white"><small class="text-muted">
+          {% if sp and sp.socials and sp.socials.linkedin %}
+            · <a href="{{ sp.socials.linkedin }}">LinkedIn</a>
+          {% endif %}
+          {% if sp and sp.socials and sp.socials.twitter %}
+            · <a href="{{ sp.socials.twitter }}">Twitter</a>
+          {% endif %}
+          {% if sp and sp.socials and sp.socials['x.com'] %}
+            · <a href="{{ sp.socials['x.com'] }}">X</a>
+          {% endif %}
+          {% if sp and sp.socials and sp.socials.github %}
+            · <a href="{{ sp.socials.github }}">GitHub</a>
+          {% endif %}
+          {% if sp and sp.action and sp.action.length %}
+            · <a href="{{ sp.action[0] }}">Video</a>
+          {% endif %}
+        </small></p> #}
+        {# tags #}
+        <div class="cluster">
+          {% for tag in s.tags %}
+            <span class="chip">
+                <span class="skill-value">{{ tag }}</span>
+                <span class="skill-search hidden">{{ tag }}</span>
+            </span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p id="empty" hidden>Keine Treffer.</p>
+</section>
+
+</section>
+
+<style>
+  .stack > * + * { margin-block-start: 1rem; }
+  .cluster { display:flex; gap:1rem; flex-wrap:wrap; align-items:flex-end; }
+  label { display:flex; flex-direction:column; gap:.25rem; font-size:.9rem; }
+  input[type="search"], select { padding:.5rem .6rem; min-width:18rem; }
+  ul#list { list-style:none; padding:0; margin:0; }
+  .card { padding:1rem; border:1px solid #e3e3e7; border-radius:12px; background:#fff; }
+  .title { margin:0 0 .25rem; font-size:1.05rem; }
+  .meta { margin:.25rem 0; color:#555; }
+  .desc { margin:.5rem 0; color:#333; }
+  .chip { display:inline-block; padding:.1rem .5rem; border:1px solid #ddd; border-radius:999px; font-size:.75rem; }
+</style>
+
+<script>
+</script>

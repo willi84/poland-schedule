@@ -1,0 +1,81 @@
+
+@import './components/_fonts.css';
+@import './components/_variables.css';
+@import './../../components/molecules/search/search.molecule.css';
+@import './../../components/atoms/button/button.atom.css';
+@import './components/_levels.css';
+
+.hidden {
+    display: none;
+}
+
+
+body{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    margin: 0;
+    background-color: var(--bg-color-primary)
+}
+/* .skill-value{
+    background-color: lightblue;
+}
+.skill-searh{
+    background-color: yellow;
+} */
+
+
+
+
+
+/* card wrapper */
+.talk-card {
+  background-color: #F230BF;
+  border-radius: 12px;
+  overflow: hidden; /* verhindert Überlappen */
+}
+
+/* left column (image + button) */
+.card-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* image becomes responsive */
+.speaker-img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  object-fit: cover;
+}
+
+/* text area must be allowed to shrink properly */
+.card-body {
+  overflow: hidden;
+  min-width: 0;
+}
+
+/* responsive stacking */
+@media (max-width: 768px) {
+  .card-left {
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .speaker-img {
+    max-width: 70px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
