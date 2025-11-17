@@ -5,6 +5,8 @@ export type SPEAKER = {
     role: string;
     company: string;
     country: string;
+    flag: string;
+    flag: string;
     image: string;
     socials: Record<string, string>;
     action: string[];
@@ -16,6 +18,12 @@ export type SESSION = {
     description: string;
     conference: string;
     speakerID: string | null;
+    block: string;
+    start: string;
+    end: string;
+    day: string;
+    startTime: string;
+    endTime: string;
     href: string;
     tags: string[];
 };
@@ -33,7 +41,6 @@ export type SESSIONS_DATA = {
     sessions: SESSIONS;
     speakers: SPEAKERS;
     conferences: CONFERENCES;
-    tags: string[];
 };
 export type LINK_TARGET = {
     key: string;

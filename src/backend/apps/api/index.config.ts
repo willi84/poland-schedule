@@ -122,3 +122,56 @@ export const TAGS = [
     'Database Patterns',
     'Google',
 ];
+
+export const countryFlags = {
+  "USA": { 
+    emoji: "🇺🇸", 
+    code: "US",
+    flag: "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+  },
+  "Germany": { 
+    emoji: "🇩🇪", 
+    code: "DE",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+  },
+  "France": { 
+    emoji: "🇫🇷", 
+    code: "FR",
+    flag: "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+  }, 
+  "Colombia": { 
+    emoji: "🇨🇴", 
+    code: "CO",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+  },
+  "Poland": { 
+    emoji: "🇵🇱", 
+    code: "PL",
+    flag: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
+  },
+  "Austria": { 
+    emoji: "🇦🇹", 
+    code: "AT",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+  },
+  "Canada": { 
+    emoji: "🇨🇦", 
+    code: "CA",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+  },
+  "Israel": { 
+    emoji: "🇮🇱", 
+    code: "IL",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+  },
+  "Czech Republic": { 
+    emoji: "🇨🇿", 
+    code: "CZ",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+  },
+  "Switzerland": { 
+    emoji: "🇨🇭", 
+    code: "CH",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+  }
+};

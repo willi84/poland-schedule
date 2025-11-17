@@ -1,0 +1,12 @@
+---
+layout: raw.template.njk
+---
+{%- from "./../templates/_setup/macros/component.macro.njk" import component -%}
+
+
+{% set data = sessions %}
+{
+    {%- if data -%}
+    "data": {{ data | dump | safe }}
+  {%- endif -%}
+}

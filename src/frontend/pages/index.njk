@@ -30,7 +30,11 @@ footer: true
       {% set speakerName = sp and sp.name or s.speakerID %}
         {% set role = sp and sp.role or '' %}
       {% set company = sp and sp.company or '' %}
+    {% set day = s.day %}
+      {% set start = s.startTime %}
+      {% set end = s.endTime %}
       {% set country = sp and sp.country or '' %}
+      {% set flag = sp.flag %}
       {% set indexText = (s.title ~ ' ' ~ speakerName ~ ' ' ~ (sp.role or '') ~ ' ' ~ company ~ ' ' ~ country) %}
       <li
       class="carxxd  searXXchable"
@@ -77,15 +81,27 @@ footer: true
            <a class="skill-search hidden text-white" href="{{ s.href }}" rel="noopener noreferrer" target="_blank">🎙️ {{ s.title }}</a>
         </h5>
         <h6>
-            <span class="chip" style="background: {{ conferences[s.conference].colorSecondary }};">
+            <span class="chip" style="background: {{ conferences[s.conference].colorSecondary }}; border-radius: 5px;">
                 <span>
                     <span class="skill-value">⭐ {{speakerName}}</span>
                     <span class="skill-search hidden">⭐ {{speakerName}}</span>
                 </span>
-                {% if role %} 
+                {% if day %}
+                <br /><span>
+                    <span class="skill-value">📅 {{ day }}</span>
+                    <span class="skill-search hidden">📅 {{day }}</span>
+                </span>
+                {% if start and end %}
                 <span>
-                    <span class="skill-value">- {{ role }}</span>
-                    <span class="skill-search hidden">- {{ role }}</span>
+                    <span class="skill-value">🕒 {{ start }} - {{ end }}</span>
+                    <span class="skill-search hidden">🕒 {{ start }} - {{ end }}</span>
+                </span>
+                {% endif %}
+                {% endif %}
+                {% if role %} 
+                <br /><span>
+                    <span class="skill-value">💼 {{ role }}</span>
+                    <span class="skill-search hidden">💼 {{ role }}</span>
                 </span>
                 {% endif %}
                 {% if company %}
@@ -96,6 +112,14 @@ footer: true
                 {% endif %}
                 {% if country %}
                 <span>
+                    {# {{ component('image', {
+                        src: flag,
+                        alt: country,
+                        width: 20,
+                        height: 15,
+                        class_modifier: 'flag-icon'
+                    })}} #}
+                     {# {{flag}} #}
                     <span class="skill-value">({{ country }})</span>
                     <span class="skill-search hidden">({{ country }})</span>
                 </span>
