@@ -18,6 +18,7 @@ const doForce = process.argv.indexOf('--force') !== -1;
 
 // get node 
 const NODE_ENV = process.argv.indexOf('NODE_ENV');
+console.log(NODE_ENV);
 const isProduction = NODE_ENV && NODE_ENV === 'production';
 
 const TARGETS: LINK_TARGETS = [
