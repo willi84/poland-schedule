@@ -102,6 +102,7 @@ const DATA: SESSIONS_DATA = {
 export const main = (TARGETS: LINK_TARGETS) => {
     for (const target of TARGETS) {
         const conferenceID = target.key;
+        console.log(`Processing conference: ${conferenceID}`);
 
         // sessions
         const httpItemSessions = getResponse(`${target.value}/sessions`);
