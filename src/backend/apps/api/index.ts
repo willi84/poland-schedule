@@ -31,14 +31,14 @@ const TARGETS: LINK_TARGETS = [
     },
     {
         key: 'ai-poland',
-        value: 'https://ai-poland.pl/sessions/',
+        value: 'https://ai-poland.pl/',
         logo: 'https://ai-poland.pl/images/logos/ai-poland-logo-small.webp',
         color: '#5C44E4',
         colorSecondary: '#A127F2',
     },
     {
         key: 'js-poland',
-        value: 'https://js-poland.pl/sessions/',
+        value: 'https://js-poland.pl/',
         logo: 'https://js-poland.pl/images/logos/logo-small.png',
         color: '#dc3c1e',
         colorSecondary: '#ab270f',
@@ -102,7 +102,7 @@ const DATA: SESSIONS_DATA = {
 export const main = (TARGETS: LINK_TARGETS) => {
     for (const target of TARGETS) {
         const conferenceID = target.key;
-        console.log(`Processing conference: ${conferenceID}`);
+        console.log(`Processing conference: ${target.value}`);
 
         // sessions
         const httpItemSessions = getResponse(`${target.value}/sessions`);
