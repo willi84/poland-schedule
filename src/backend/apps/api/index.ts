@@ -141,6 +141,7 @@ export const main = (TARGETS: LINK_TARGETS) => {
                     conference: conferenceID,
                     href: link,
                     block: '',
+                    scheduleHref: '',
                     start: '',
                     end: '',
                     day: '',
@@ -286,8 +287,7 @@ export const main = (TARGETS: LINK_TARGETS) => {
                 const blockEl = el.querySelector('h3');
                 const timeEl = el.querySelector('h5');
                 const talks = el.querySelectorAll('img + strong');
-                // console.log('Schedule block:', blockEl?.innerText.trim());
-                // console.log('Schedule time:', timeEl?.innerText.trim());
+                const id = el.parentNode.getAttribute('id') || '';
                 for (const talk of talks) {
                     // get text next strong
                     const talkTitle = talk.nextSibling.textContent; //;
@@ -303,6 +303,7 @@ export const main = (TARGETS: LINK_TARGETS) => {
                         const startTime = times[0]?.trim() || '';
                         const endTime = times[1]?.trim() || '';
                         DATA.sessions[talkID].block = sanitizeText(blockEl?.innerText || '');
+                        DATA.sessions[talkID].scheduleHref = `${target.value}/schedule/#${id}`;
                         DATA.sessions[talkID].endTime = endTime;
                         DATA.sessions[talkID].startTime = startTime;
                         if (times.length === 2) {

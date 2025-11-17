@@ -86,6 +86,17 @@ footer: true
                     <span class="skill-value">⭐ {{speakerName}}</span>
                     <span class="skill-search hidden">⭐ {{speakerName}}</span>
                 </span>
+                {% if s.block %} 
+                <br /><span>
+                    <span class="skill-value">👉 {{ s.block }}</span>
+                    <span class="skill-search hidden">👉 {{ s.block }}</span>
+                </span>
+                {% endif %}
+                <br /><span>
+                    <span class="skill-value">💼 {{ role }}</span>
+                    <span class="skill-search hidden">💼 {{ role }}</span>
+                </span>
+                {% endif %}
                 {% if day %}
                 <br /><span>
                     <span class="skill-value">📅 {{ day }}</span>

@@ -26,6 +26,7 @@ export type SESSION = {
     startTime: string;
     endTime: string;
     href: string;
+    scheduleHref: string;
     tags: string[];
 };
 export type SESSIONS = {
