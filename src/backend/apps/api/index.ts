@@ -1,4 +1,3 @@
-import { title } from 'process';
 import { FS } from '../../_shared/fs/fs';
 import { getResponse } from '../../_shared/http/http';
 import { LOG } from '../../_shared/log/log';
@@ -302,6 +301,7 @@ export const main = (TARGETS: LINK_TARGETS) => {
                         const times = dateTimeItems[1]?.trim().split('-') || [];
                         const startTime = times[0]?.trim() || '';
                         const endTime = times[1]?.trim() || '';
+                        DATA.sessions[talkID].block = sanitizeText(blockEl?.innerText || '');
                         DATA.sessions[talkID].endTime = endTime;
                         DATA.sessions[talkID].startTime = startTime;
                         if (times.length === 2) {

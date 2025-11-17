@@ -22,6 +22,7 @@ export type SESSION = {
     start: string;
     end: string;
     day: string;
+    block: string;
     startTime: string;
     endTime: string;
     href: string;
