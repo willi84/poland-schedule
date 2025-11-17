@@ -16,6 +16,10 @@ const REGEX_SPEAKER: RegExp =
     /^(?<name>.+?)\s*-\s*(?<role>[^,|]+),\s*(?<company>[^|]+)\s*\|\s*(?<country>.+)$/;
 const doForce = process.argv.indexOf('--force') !== -1;
 
+// get node 
+const NODE_ENV = process.argv.indexOf('NODE_ENV');
+const isProduction = NODE_ENV && NODE_ENV === 'production';
+
 const TARGETS: LINK_TARGETS = [
     {
         key: 'ng-poland',
@@ -324,7 +328,7 @@ export const main = (TARGETS: LINK_TARGETS) => {
         }
     }
 };
-if (!FS.hasFile(SESSION_FILE) || doForce) {
+if (!FS.hasFile(SESSION_FILE) || doForce || isProduction) {
     LOG.OK(`Generating session data file: ${SESSION_FILE}`);
     main(TARGETS);
     FS.writeFile(SESSION_FILE, JSON.stringify(DATA, null, 2));
